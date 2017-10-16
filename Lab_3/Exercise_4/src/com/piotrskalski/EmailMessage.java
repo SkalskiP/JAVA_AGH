@@ -12,32 +12,47 @@ public class EmailMessage {
     private LinkedList<String> bcc;         // optional
 
     // FROM GETTER
-    public String getFrom() {
-        return this.from;
-    }
+    public String getFrom() { return this.from; }
 
     // TO GETTER
-    public void getTo() {
-        for (String singleTo : this.to)
-            System.out.println(singleTo);
-    }
+    public LinkedList<String> getTo() { return this.to; }
+
+    // SUBJECT GETTER
+    public String getSubject() { return this.subject; }
+
+    // CONTENT GETTER
+    public String getContent() { return this.content; }
+
+    // MINE TYPE GETTER
+    public String getMimeType() { return this.mimeType; }
+
+    // CO GETTER
+    public LinkedList<String> getCc() { return this.cc; }
+
+    // BCC
+    public LinkedList<String> getBcc() { return bcc; }
 
     // CONSTRUCTOR
-    public EmailMessage(String from,
-                        LinkedList<String> to,
-                        String subject,
-                        String content,
-                        String mimeType,
-                        LinkedList<String> cc,
-                        LinkedList<String> bcc){
-        // wiele if, else, sprawdzania czy string jest e-mail, itd.
+    public EmailMessage(String from_, LinkedList<String> to_, String subject_, String content_,
+                        String mimeType_, LinkedList<String> cc_, LinkedList<String> bcc_){
+
+        this.from = from_;
+        this.to = to_;
+        this.subject = subject_;
+        this.content = content_;
+        this.mimeType = mimeType_;
+        this.cc = cc_;
+        this.bcc = bcc_;
     }
 
-    //FACTORY
+    // FACTORY
     public static Builder builder() {
         return new EmailMessage.Builder();
     }
 
+    // TESTING EMAIL MESSAGE
+
+    // INNER CLASS
     static public class Builder {
 
         private String fromTmp;
@@ -70,6 +85,8 @@ public class EmailMessage {
             this.contentTmp = content;
             return this;
         }
+
+        // SENDER
     }
 
 
