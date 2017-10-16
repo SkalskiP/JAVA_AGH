@@ -1,5 +1,11 @@
 package com.piotrskalski;
+
+import java.util.LinkedList;
+import java.util.Properties;
 import java.util.*;
+import javax.mail.*;
+import javax.mail.internet.*;
+import javax.activation.*;
 
 public class EmailMessage {
 
@@ -10,10 +16,11 @@ public class EmailMessage {
     private String mimeType;                // optional
     private LinkedList<String> cc;          // optional
     private LinkedList<String> bcc;         // optional
+    private String password;                // required
 
     // CONSTRUCTOR
     private EmailMessage(String from_, LinkedList<String> to_, String subject_, String content_,
-                        String mimeType_, LinkedList<String> cc_, LinkedList<String> bcc_){
+                        String mimeType_, LinkedList<String> cc_, LinkedList<String> bcc_, String password_){
 
         this.from = from_;
         this.to = to_;
@@ -22,6 +29,7 @@ public class EmailMessage {
         this.mimeType = mimeType_;
         this.cc = cc_;
         this.bcc = bcc_;
+        this.password = password_;
     }
 
     // FROM GETTER
@@ -42,8 +50,11 @@ public class EmailMessage {
     // CO GETTER
     public LinkedList<String> getCc() { return this.cc; }
 
-    // BCC
+    // BCC GETTER
     public LinkedList<String> getBcc() { return bcc; }
+
+    // PASSWORD GETTER
+    public String getPassword() { return this.password;}
 
     // FACTORY
     public static Builder builder() {
@@ -56,6 +67,9 @@ public class EmailMessage {
         if (this.from != null) {
             System.out.println("Nadawca: " + this.from);
         }
+        if (this.password != null) {
+            System.out.println("Hasło: " + this.password);
+        }
         if (this.to != null) {
             System.out.println("Odbiorcy: " + this.to.toString());
         }
@@ -65,6 +79,40 @@ public class EmailMessage {
         if (this.content != null) {
             System.out.println("Treść: " + this.content);
         }
+    }
+
+    // SENDING MESSAGE
+    public void send() throws MessagingException {
+        Properties props = System.getProperties();
+        props.setProperty("mail.smtp.host", "smtp.gmail.com");
+        props.setProperty("mail.smtp.user", this.from);
+        props.setProperty("mail.smtp.password", this.password);
+        props.setProperty("mail.smtp.auth", "true");
+        props.put("mail.debug", "true");
+        props.put("mail.smtp.port", "587");
+        props.put("mail.smtp.starttls.enable", "true");
+        props.put("mail.smtp.ssl.trust", "smtp.gmail.com");
+        Session session = Session.getInstance(props, new javax.mail.Authenticator() {
+            protected PasswordAuthentication getPasswordAuthentication() {
+                return new PasswordAuthentication(from, password);
+            }
+        });
+        MimeMessage message = new MimeMessage(session);
+
+        message.setFrom(new InternetAddress(this.from));
+
+        for(String x: this.to)
+            message.addRecipient(Message.RecipientType.TO, new InternetAddress(x));
+
+        message.setSubject(this.subject);
+
+        message.setText(this.content);
+
+        Transport.send(message);
+
+        System.out.println("Message sent successfully");
+
+
     }
 
     // INNER CLASS
@@ -77,6 +125,7 @@ public class EmailMessage {
         private String mimeTypeTmp;
         private LinkedList<String> ccTmp;
         private LinkedList<String> bccTmp;
+        private String passwordTmp;
         public String Pattern = "^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,6}$";
 
         // CONSTRUCTOR
@@ -88,6 +137,13 @@ public class EmailMessage {
             this.mimeTypeTmp = null;
             this.ccTmp = null;
             this.bccTmp = null;
+            this.passwordTmp = null;
+        }
+
+        // PASSWORD SETTER
+        public Builder addPassword(String password) {
+            this.passwordTmp = password;
+            return this;
         }
 
         // SUBJECT SETTER
@@ -133,7 +189,8 @@ public class EmailMessage {
                     this.contentTmp,
                     this.mimeTypeTmp,
                     this.ccTmp,
-                    this.bccTmp);
+                    this.bccTmp,
+                    this.passwordTmp);
         }
     }
 
