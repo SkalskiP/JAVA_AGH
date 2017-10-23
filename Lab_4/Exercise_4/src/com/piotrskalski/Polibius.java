@@ -68,7 +68,7 @@ public class Polibius implements Algorithm {
             int col = Character.getNumericValue(word.charAt(i + 1)) - 1;
             result += polib[row][col];
         }
-        
+
         // returning decrypted word
         return result;
     }
