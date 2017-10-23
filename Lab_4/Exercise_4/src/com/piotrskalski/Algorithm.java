@@ -7,5 +7,5 @@ public interface Algorithm {
     String crypt(String word);
 
     // single word decrypting method
-    String decrypt(String cryptedWord);
+    String decrypt(String word);
 }
