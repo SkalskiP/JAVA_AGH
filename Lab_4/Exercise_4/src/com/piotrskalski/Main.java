@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner userInput = new Scanner(System.in);
-        Rot11 szyfr = new Rot11();
+        Polibius szyfr = new Polibius();
 
         String test = userInput.next();
         String zaszyfrowane = szyfr.crypt(test);
