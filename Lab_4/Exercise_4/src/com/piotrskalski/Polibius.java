@@ -42,7 +42,7 @@ public class Polibius implements Algorithm {
         word = word.toLowerCase();
 
         // replace j with i
-        word.replace('j', 'i');
+        word = word.replace('j', 'i');
 
         // iteration over letters in word that we will encryption
         for (char i : word.toCharArray()) {
