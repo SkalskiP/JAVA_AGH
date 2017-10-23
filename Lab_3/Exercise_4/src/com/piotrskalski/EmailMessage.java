@@ -140,6 +140,26 @@ public class EmailMessage {
             this.passwordTmp = null;
         }
 
+        // TESTING EMAIL MESSAGE
+        public void checkValues() {
+            System.out.println("Values of EmailMassage fields:");
+            if (this.fromTmp != null) {
+                System.out.println("Nadawca: " + this.fromTmp);
+            }
+            if (this.passwordTmp != null) {
+                System.out.println("Hasło: " + this.passwordTmp);
+            }
+            if (this.toTmp != null) {
+                System.out.println("Odbiorcy: " + this.toTmp.toString());
+            }
+            if (this.subjectTmp != null) {
+                System.out.println("Tytuł: " + this.subjectTmp);
+            }
+            if (this.contentTmp != null) {
+                System.out.println("Treść: " + this.contentTmp);
+            }
+        }
+
         // PASSWORD SETTER
         public Builder addPassword(String password) {
             this.passwordTmp = password;
