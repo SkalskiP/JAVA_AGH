@@ -12,7 +12,7 @@ public class Rot11 implements Algorithm {
     public String support (String word, int move) {
 
         // variable that holds string that will be returned after encryption
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
         // before we begin any operations on the string, let's set it in lowercase
         word = word.toLowerCase();
@@ -33,20 +33,20 @@ public class Rot11 implements Algorithm {
                 index = (index + alpha.length()) % alpha.length();
 
                 // adding encrypted letter
-                result += alpha.charAt(index);
+                result.append(alpha.charAt(index));
             }
 
             // if the alphabet does not have the desired letter, we will return the default character
             else {
                 // adding encrypted letter
-                result += default_char;
+                result.append(default_char);
             }
 
 
         }
 
         // returning encrypted word
-        return result;
+        return result.toString();
     }
 
     // =================================================================================================================

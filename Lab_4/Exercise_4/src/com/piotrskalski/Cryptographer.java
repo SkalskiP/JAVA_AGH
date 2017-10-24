@@ -21,7 +21,7 @@ public class Cryptographer {
             while (fileReader.hasNextLine()){
 
                 // a variable that holds an encrypted line of code
-                String lineResult = "";
+                StringBuilder lineResult = new StringBuilder();
 
                 // single line from input file
                 String line = fileReader.nextLine();
@@ -34,18 +34,18 @@ public class Cryptographer {
 
                     if (operation == "crypt") {
                         // adding encrypted word with space
-                        lineResult += method.crypt(word) + ' ';
+                        lineResult.append(method.crypt(word) + ' ');
                     } else if (operation == "decrypt") {
                         // adding decrypted word with space
-                        lineResult += method.decrypt(word) + ' ';
+                        lineResult.append(method.decrypt(word) + ' ');
                     }
                 }
 
                 // removing extra space at the end of line
-                lineResult = lineResult.substring(0, lineResult.length() - 1);
+                lineResult.setLength(lineResult.length() - 1);
 
                 // saving encrypted line to file
-                printWriter.println(lineResult);
+                printWriter.println(lineResult.toString());
 
             }
             printWriter.close();

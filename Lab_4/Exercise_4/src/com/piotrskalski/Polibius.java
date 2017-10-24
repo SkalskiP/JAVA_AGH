@@ -38,7 +38,7 @@ public class Polibius implements Algorithm {
     public String crypt(String word) {
 
         // variable that holds string that will be returned after encryption
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
         // before we begin any operations on the string, let's set it in lowercase
         word = word.toLowerCase();
@@ -48,11 +48,11 @@ public class Polibius implements Algorithm {
 
         // iteration over letters in word that we will encryption
         for (char i : word.toCharArray()) {
-            result += searchLetter(i);
+            result.append(searchLetter(i));
         }
 
         // returning encrypted word
-        return result;
+        return result.toString();
     }
 
     // =================================================================================================================
@@ -62,24 +62,24 @@ public class Polibius implements Algorithm {
     public String decrypt(String word) {
 
         // variable that holds string that will be returned after decryption
-        String result = "";
+        StringBuilder result = new StringBuilder();
 
         // single letter decryption
         for (int i = 0; i < word.length(); i+=2) {
 
             // validation of received code
             if (word.charAt(i) == '0' && word.charAt(i+1) == '0') {
-                result += default_decr;
+                result.append(default_decr);
             }
             // if pair of numbers is valid we assign char
             else {
                 int row = Character.getNumericValue(word.charAt(i)) - 1;
                 int col = Character.getNumericValue(word.charAt(i + 1)) - 1;
-                result += polib[row][col];
+                result.append(polib[row][col]);
             }
         }
 
         // returning decrypted word
-        return result;
+        return result.toString();
     }
 }
