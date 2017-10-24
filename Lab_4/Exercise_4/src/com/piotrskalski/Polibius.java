@@ -14,6 +14,8 @@ public class Polibius implements Algorithm {
             {'v', 'w', 'x', 'y', 'z'}
 
     };
+    private static final char default_decr = '#';
+    private static final String default_encr = "00";
 
     // =================================================================================================================
 
@@ -26,7 +28,7 @@ public class Polibius implements Algorithm {
                 }
             }
         }
-        return "00";
+        return default_encr;
     }
 
     // =================================================================================================================
@@ -64,9 +66,17 @@ public class Polibius implements Algorithm {
 
         // single letter decryption
         for (int i = 0; i < word.length(); i+=2) {
-            int row = Character.getNumericValue(word.charAt(i)) - 1;
-            int col = Character.getNumericValue(word.charAt(i + 1)) - 1;
-            result += polib[row][col];
+
+            // validation of received code
+            if (word.charAt(i) == '0' && word.charAt(i+1) == '0') {
+                result += default_decr;
+            }
+            // if pair of numbers is valid we assign char
+            else {
+                int row = Character.getNumericValue(word.charAt(i)) - 1;
+                int col = Character.getNumericValue(word.charAt(i + 1)) - 1;
+                result += polib[row][col];
+            }
         }
 
         // returning decrypted word

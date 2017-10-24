@@ -5,6 +5,7 @@ public class Rot11 implements Algorithm {
     // class fields that hold alphabet and rotation
     private static final String alpha = "abcdefghijklmnopqrstuvwxyz";
     private static final int rotation = 11;
+    private static final char default_char = '#';
 
     // =================================================================================================================
 
@@ -19,14 +20,29 @@ public class Rot11 implements Algorithm {
         // iteration over letters in word that we will encryption
         for (char i : word.toCharArray()) {
 
-            // index of letter in alphabet after encryption it may be greater then length of alphabet
-            int index = alpha.indexOf(i) + move;
+            // index of unencrypted character in alphabet
+            int index = alpha.indexOf(i);
 
-            // we ensure tat the index of letter is smaller than the length of the alphabet
-            index = (index + alpha.length()) % alpha.length();
+            // validation of received index (it checks whether the letter is in the alphabet)
+            if (index >= 0) {
 
-            // adding encrypted letter
-            result += alpha.charAt(index);
+                // index of letter in alphabet after encryption it may be greater then length of alphabet
+                index += move;
+
+                // we ensure tat the index of letter is smaller than the length of the alphabet
+                index = (index + alpha.length()) % alpha.length();
+
+                // adding encrypted letter
+                result += alpha.charAt(index);
+            }
+
+            // if the alphabet does not have the desired letter, we will return the default character
+            else {
+                // adding encrypted letter
+                result += default_char;
+            }
+
+
         }
 
         // returning encrypted word

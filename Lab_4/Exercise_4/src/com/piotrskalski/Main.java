@@ -5,11 +5,21 @@ import java.util.Scanner;
 
 public class Main {
 
+    /*
+    If you want to use this code on your computer you need to create three separate files on your computer.
+    This files will hold:
+    1. Text that you want to encrypt.
+    2. Text after encryption.
+    3. Text after decryption.
+
+    Finally you need to provide paths to those files as arguments in program configurations.
+    */
+
     public static void main(String[] args) {
 
-        File in = new File("C:\\Users\\AFGHAN92\\Desktop\\in.txt");
-        File out = new File("C:\\Users\\AFGHAN92\\Desktop\\out.txt");
-        File encrypted = new File("C:\\Users\\AFGHAN92\\Desktop\\encrypted.txt");
+        File in = new File(args[0]);
+        File out = new File(args[1]);
+        File encrypted = new File(args[2]);
 
         System.out.println("1.szyfruj(ROT11)");
         System.out.println("2.szyfruj(Polibiusz)");
