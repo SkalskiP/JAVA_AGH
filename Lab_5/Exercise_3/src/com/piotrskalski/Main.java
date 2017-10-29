@@ -17,6 +17,10 @@ public class Main {
             e.printStackTrace();
         } catch (InvalidFramesOrderException e) {
             e.printStackTrace();
+        } catch (NegativeFrameTimeException e) {
+            e.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 }

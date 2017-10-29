@@ -1,0 +1,661 @@
+{453}{652}/Na wysoko�ci 600 kilometr�w temperatura waha si�|/mi�dzy 126 a -100 stopniami Celsjusza.
+{669}{806}/D�wi�k si� nie niesie.|/Nie ma ci�nienia ani tlenu.
+{880}{983}/�ycie w kosmosie jest niemo�liwe.
+{1000}{1074}GRAWITACJA
+{1079}{1139}.:: GrupaHatak.pl ::.
+{1142}{1206}T�umaczenie:|rarehare & j�zek
+{1664}{1799}/Prosz� o potwierdzenie, �e pierwsza i druga|/cz�� obudowy dysku P1 zosta�y usuni�te.
+{1815}{1971}/- DMA M-1, M-2, M-3 i M-4 zako�czone.|/- Przyj��em, Explorer.
+{1998}{2098}/Dr Stone, tu Houston.|/Lekarzy niepokoj� odczyty EKG.
+{2117}{2213}/- Nic mi nie jest, Houston.|/- Lekarze s�dz� inaczej, pani doktor.
+{2213}{2302}/- Odczuwa pani nudno�ci?|/- Nie bardziej ni� zwykle, Houston.
+{2304}{2340}/Diagnostyka pozytywna.
+{2360}{2431}/Po��czenie z kart� komunikacyjn�|/gotowe do obioru danych.
+{2465}{2539}/Je�li to zadzia�a, kiedy wyl�dujemy,|/stawiam wszystkim kolejk�.
+{2563}{2599}/Umowa, pani doktor.
+{2599}{2664}/Tylko pami�taj,|/�e Houston preferuje margarity.
+{2714}{2806}/Uruchamiam kart�.|/Potwierd�cie po��czenie.
+{2827}{2882}/Brak potwierdzenia.|/Nie odczytujemy �adnych danych.
+{2906}{2969}/Zaczekajcie, Houston,|/zrestartuj� kart�.
+{2973}{3009}/Czekamy.
+{3021}{3110}/- Houston, mam z�e przeczucia.|/- Wyja�nij.
+{3117}{3165}/Opowiem wam histori�.
+{3168}{3256}/W '96 roku,|/kiedy by�em tu od 42 dni,
+{3263}{3316}/zawsze nad Teksasem|/spogl�da�em w d� wiedz�c,
+{3316}{3407}/�e pani Kowalski patrzy w niebo,|/my�l�c o mnie.
+{3431}{3474}/Wysy�a�em jej ca�usy|/przez sze�� tygodni.
+{3479}{3578}/Kiedy wyl�dowali�my w Edwards, dowiedzia�em si�,|/�e zwia�a z jakim� prawnikiem.
+{3582}{3654}/- Spakowa�em si� i ruszy�em autem do...|/- Tijuany.
+{3654}{3702}/Ju� to opowiada�e�, Kowalski.
+{3707}{3793}/Z tego, co Houston pami�ta,|/odjecha�a w GTO z '74.
+{3801}{3877}/In�ynierka prosi o poziom paliwa|/w prototypie jet packa.
+{3896}{3964}/Przez pi�� godzin w przestrzeni|/zu�y�em tylko 30%.
+{3985}{4023}/Przeka�cie inzynierom wyrazy szacunku.
+{4023}{4131}/Poza drobn� wad� przy zerowaniu osi wzd�u�nej,|/ten jet pack to kawa� dobrej roboty.
+{4175}{4215}/In�ynierka przekazuje podzi�kowania.
+{4215}{4282}/Przeka�cie, �e wci�� wol�|/swoj� corvett� z '67.
+{4287}{4362}- A propos, wspomina�em mo�e o...|/- Znamy histori� o corvecie, Matt.
+{4366}{4445}- Nawet In�ynierka?|/- Zw�aszcza ona.
+{4474}{4517}/B�dziemy t�skni�, Matt.
+{4527}{4613}/- Restart karty komunikacyjnej w trakcie.|/- Dzi�kujemy, pani doktor.
+{4621}{4661}/Shariff, podaj sw�j status?
+{4673}{4760}/Prawie sko�czy�em.|/Wymieniam modu� baterii A-1 i C.
+{4808}{4908}/Mo�esz by� konkretniejszy?|/Nieokre�lone szacunki niepokoj� Houston.
+{4915}{4975}/Nie, Houston.|/Nie ma powod�w do niepokoju.
+{4980}{5100}/To szkodzi sercu.|/System gotowy do reaktywacji.
+{5119}{5206}/Teleskop Hubble'a pod��czony.|/Uaktualnienie funkcjonalne.
+{5210}{5270}/To brawa dla ciebie, Shariff.
+{5275}{5337}/Gratulacje.|/Wracaj, zr�b sobie wolne.
+{5464}{5556}/Matt, widzisz, co robi teraz|/specjalista ds. misji Shariff?
+{5580}{5740}Wygl�da to na pewn� odmian� macareny.|Ale to tylko strza�.
+{5755}{5862}/Dr Stone, Houston. Lekarze informuj�|/o spadku temperatury do 35.1 stopni
+{5862}{5927}/i wzro�cie pulsu do 70.
+{5946}{6030}/- Jak si� pani czuje?|- Nic mi nie jest, Houston.
+{6037}{6114}Po prostu dzia�anie bez grawitacji|jest trudniejsze ni� si� wydaje.
+{6138}{6213}/Dr Stone, lekarze pytaj�,|/czy chce pani wr�ci� do Explorera.
+{6229}{6308}Nie, jeste�my tu od tygodnia, Houston.|Sko�czmy to.
+{6318}{6400}- Karta pod��czona.|/- Niestety.
+{6400}{6471}/Nic nie odbieramy, pani doktor.
+{6500}{6579}- Spr�bujcie znowu.|/- Wci�� nic.
+{6639}{6723}- Houston, mo�ecie wy��czy� muzyk�?|/- Kowalski.
+{6735}{6814}- Nie ma problemu.|- Dzi�ki, Kowalski.
+{6893}{6961}Teraz, Houston?|/- Nic.
+{6977}{7037}Mo�liwe, �e Houston|b��dnie interpretuje dane?
+{7049}{7104}/Nie otrzymujemy �adnych danych.
+{7121}{7208}/In�ynierka zaleca|/sprawdzenie awarii komponent�w.
+{7243}{7363}Sprawdz�, co si� dzieje.|Co my tu mamy?
+{7546}{7603}Po kontroli wizualnej|nie widz� �adnych problem�w.
+{7606}{7665}�r�d�o awarii musi znajdowa� si�|w panelu komunikacyjnym.
+{7677}{7730}/Prawdopodobnie tak.
+{7737}{7797}/In�ynierka przyznaje,|/�e nas pani ostrzega�a.
+{7821}{7876}/To najwi�ksze przeprosiny,|/na jakie ich sta�.
+{7881}{7989}/Powinni�my byli ich pos�ucha�, pani doktor.|/B�dziemy musieli improwizowa�.
+{7996}{8092}- Ju� dzia�am.|/- Ile czasu pani potrzebuje?
+{8104}{8179}- Godziny.|/- �wietnie.
+{8183}{8255}/Instalacja systemu w Hubble'u|/to g��wny cel misji,
+{8260}{8310}/wi�c doceniamy|/cierpliwo��, pani doktor.
+{8327}{8394}/Kowalski, wiemy, �e nie interesuj� ci�|/takie rzeczy,
+{8399}{8461}/ale dla twojej informacji,|/op�nienie nie b�dzie tak du�e,
+{8466}{8533}/by� pobi� rekord przebywania|/w przestrzeni Anatolija So�owjowa.
+{8545}{8629}/- Zabraknie ci...|- 75 minut?
+{8636}{8677}Nawet o tym nie pomy�la�em.
+{8696}{8823}/- Matt, to by� zaszczyt.|- Wzajemnie, Houston.
+{8840}{8888}/Mi�ego ostatniego spaceru.
+{8900}{8979}Mam asystowa� dr Stone|w usuni�ciu panelu?
+{8984}{9044}- By�oby �wietnie.|/- Masz pozwolenie.
+{9046}{9082}Dzi�kuj�, Houston.
+{9099}{9162}- Mog� do��czy� do zabawy?|- Pewnie.
+{9162}{9281}- Jak si� czujesz?|- Jak chihuahua po wirowaniu.
+{9303}{9341}To by� ci�ki tydzie�.
+{9365}{9466}Je�li ci� to pocieszy, podczas pierwszego lotu|wykaszla�em wszystko opr�cz nerek.
+{9490}{9521}Cholera.
+{9672}{9703}Wybacz.
+{9732}{9823}Przywyk�am do laboratorium w szpitalu,|gdzie rzeczy spadaj� na pod�og�. Dzi�ki.
+{9871}{9958}Ty tu jeste� geniuszem.|Ja tylko prowadz�.
+{9970}{10070}Nazwiesz mnie geniuszem, je�li uda mi si�|uruchomi� p�yt� w ci�gu godziny.
+{10077}{10145}/- Explorer, tu Houston.|- �mia�o, Houston.
+{10154}{10252}/NORAD informuje, �e rosyjski satelita|/zosta� zestrzelony przez rakiet�.
+{10257}{10372}/Uderzenie stworzy�o chmur� odpad�w|/orbituj�cych 32 000 km/h.
+{10384}{10468}/Obecna orbita odpad�w nie przebiega|/po waszym torze.
+{10475}{10567}/- B�dziemy was informowa� na bie��co.|- Przyj�li�my, Houston.
+{10579}{10703}- Powinni�my si� martwi�?|- Nie, zmartwienia zostaw ch�opakom.
+{10727}{10802}Explorer, uruchom rami�|i skieruj do �adowni.
+{10806}{10849}/Oczekujcie na ruch.
+{10866}{10953}Kiedy ju� pracujesz dla NASA,|jak ci si� podobamy?
+{10957}{11010}To jak wygrana na loterii, nie?
+{11013}{11084}Cieszy�am si� tylko,|�e nie przestali finansowa� moich bada�.
+{11084}{11144}- Ile trwa� tw�j trening?|- Sze�� miesi�cy.
+{11144}{11188}- Z wakacjami?|- Tak.
+{11192}{11295}- Co to za system skanuj�cy?|- Nic takiego, Matt.
+{11295}{11360}To tylko nowa para oczu|do skanowania kra�c�w wszech�wiata.
+{11367}{11439}Zaprojektowany jest do szpitali,|ale ten jest prototypem.
+{11451}{11494}/Czekajcie na zamkni�cie.
+{11516}{11621}Oni nie finansuj� prototyp�w.|Nawet za twe pi�kne, niebieskie oczy.
+{11650}{11801}- Moje oczy s� br�zowe.|- Teraz s� krwiste.
+{11820}{11849}Kowalski!
+{11856}{12084}- Czy to nie �wietne?|- I on chodzi� na Harvard.
+{12132}{12254}Jedno musisz przyzna�,|takiego widoku nie pobijesz.
+{12350}{12494}- Co lubisz w byciu tutaj?|- Cisz�.
+{12533}{12581}Mog�abym do niej przywykn��.
+{13074}{13108}Niesamowite.
+{13110}{13182}Houston, po pierwszym przegl�dzie,|panele komunikacyjne wydaj� si� zepsute.
+{13182}{13249}Od��czy� zasilanie awaryjne?
+{13254}{13314}Pani jest tu ekspertem.|Prosz� decydowa�.
+{13314}{13377}Houston, mam z�e przeczucia|co do tej misji.
+{13381}{13496}/- Rozwi�.|- To samo uczucie mia�em na Mardi Gras w '87.
+{13532}{13564}/Zgadza si�.
+{13568}{13676}/O dziwo, Kontrola nie s�ysza�a historii|/o Mardi Gras. Kontynuuj.
+{13683}{13748}Jest dzie� pierwszy|i p�dz� po Bourbon Street
+{13755}{13827}szukaj�c siostry znajomego.
+{13839}{13911}Na ulicach s� t�umy.|My�l�, �e nie ma szans, bym j� znalaz�.
+{13916}{14014}- Przechodz� do wymiany.|- Nagle spogl�dam w g�r� i spostrzegam j�.
+{14019}{14067}Chc� ju� krzycze�,|ale widz�, �e trzyma za r�k�
+{14069}{14165}jakiego� w�ochatego kikuta|w k�piel�wkach i koszulce z Margaritaville.
+{14170}{14244}Potem orientuj� si�,|�e ten kole� to nie kole�.
+{14249}{14297}Moja dziewczyna trzyma za r�k�...
+{14297}{14348}/- ISS, tu Houston.|/- M�w, Houston.
+{14348}{14408}/- Explorer, tu Houston.|- �mia�o, Houston.
+{14412}{14472}/Przerwa� misj�.|/Powtarzam, przerwa� misj�.
+{14479}{14527}/Rozpocznijcie awaryjne od��czanie|/od Hubble'a.
+{14532}{14630}/Rozpocznijcie procedur� powrotu.|/ISS, rozpocznijcie ewakuacj�.
+{14630}{14707}Przyj�li�my, Houston, dzia�amy.|Matt, wracamy do Explorera.
+{14714}{14774}- Powtarzam, natychmiast wracamy do Explorera.|- Przyj��em.
+{14782}{14834}- Explorer, przygotujcie �luz�.|/- Przygotowana,
+{14834}{14887}/- gotowa do odbioru.|- Houston, powiedz co� wi�cej.
+{14889}{14961}/Odpady po wybuchu wywo�a�y|/reakcj� �a�cuchow�,
+{14961}{15021}/uderzaj�c w inne satelity|/i tworz�c nowe odpady.
+{15028}{15098}/Zmierzaj� w waszym kierunku|/szybciej ni� pociski.
+{15110}{15153}/- Przyj�li�cie?|- Tak jest.
+{15156}{15227}- Szybciej, dr Stone.|- Nie mog�.
+{15232}{15311}- P�yta wci�� si� wgrywa.|- Nie powiem tego dwa razy.
+{15316}{15388}- Sekunda.|- Nie, teraz!
+{15391}{15503}- Zamknij to. To rozkaz!|- Dobrze, przepraszam.
+{15508}{15542}Sko�czy�am.
+{15542}{15606}/Kowalski, rozpocznij awaryjne|/od��czenie od Hubble'a.
+{15606}{15661}- Dobra, Shariff, do roboty.|- Przyj��em, Matt.
+{15666}{15738}- Houston, informuj nas.|/- To reakcja �a�cuchowa.
+{15750}{15865}/Potwierdzono, �e to efekt uboczny|/zestrzelenia przez Rosjan ich satelity.
+{15877}{15949}- Zestrzelili w�asnego satelit�?|- Prawo w�asno�ci.
+{15952}{16016}Zapewne satelita szpiegowski da� plam�.|Teraz to szrapnel.
+{16021}{16071}Explorer, gotowy do od��czenia Hubble'a.
+{16071}{16210}/- Zwolnienie zabezpiecze� za 3, 2, 1...|/- Explorer, nowe informacje.
+{16222}{16282}- Jaka jest sytuacja, Houston?|/- Nie jest dobrze.
+{16282}{16338}/Pad�a wi�kszo�� system�w.
+{16342}{16426}/Nie mamy kontroli|/nad reakcj� �a�cuchowa odpad�w.
+{16426}{16493}/Zniszczonych zosta�o kilka satelit�w|/i nast�pne czekaj� w kolejce.
+{16498}{16573}- Zdefiniuj "kilka".|/- Wi�kszo�� z nich.
+{16577}{16685}/Systemy telekomunikacyjne pad�y.|/Oczekujcie na zerwanie po��czenia.
+{16685}{16796}- Kowalski, odpady na dziewi�tej.|- Po�owie Ameryki pad� Facebook.
+{16800}{16903}/Explorer, powtarzam,|/oczekujcie zerwania po��czenia w ka�dej chwili.
+{16908}{16983}- Przyj�am, Houston.|- Explorer, m�wi Kowalski,
+{16983}{17083}- potwierdzam widok odpad�w z satelity BSE.|- Uwa�ajcie!
+{17088}{17170}- Potwierdzam, widz�...|- Dr Stone prosi o szybszy transport.
+{17174}{17215}Musimy i��!
+{17217}{17289}/Kennedy informuje, �e warunki meteorologiczne|/uniemo�liwiaj� powr�t.
+{17301}{17426}/- Houston, tu Explorer. Przyj�am.|- Explorer, dr Stone prosi o szybszy powr�t do zatoki.
+{17428}{17493}- Explorer, s�yszycie mnie?|- Prosz� o pozwolenie na ratunek dr Stone.
+{17500}{17536}/Dzia�aj, Kowalski.
+{17544}{17604}/Houston, tu Explorer,|/s�yszycie mnie?
+{17613}{17692}- Dobra.|/- Stracili�my Houston.
+{17711}{17776}Odepnij si�.|Wyno�my si� st�d w choler�.
+{17779}{17831}- Pom�c ci, Matt?|- Nie czekaj na nas.
+{17831}{17908}- Zaci�� si�!|- Mamy rannego!
+{17939}{18037}/Houston, tu Explorer.|/Kowalski, infor...
+{18073}{18205}Explorer trafiony!|Explorer, s�yszysz? Explorer, obi�r!
+{18260}{18344}Astronauta poza struktur�!|Dr Stone jest poza struktur�!
+{18349}{18411}Dr Stone, odepnij si�!|Musisz si� odpi��!
+{18435}{18495}Je�li tego nie zrobisz,|odlecisz za daleko!
+{18500}{18548}Pos�uchaj mnie!|Skup si�!
+{18560}{18587}Trac� ci� z widoku.
+{18591}{18634}Za kilka sekund ju� ci� nie odnajd�.
+{18639}{18687}Musisz si� odczepi�!|Nie widz� ci�!
+{18706}{18783}- Zr�b to!|- Pr�buj�!
+{18790}{18937}Houston, nie widz� dr Stone.|Nie widz� dr Stone.
+{19152}{19229}/Dr Stone, s�yszysz mnie?|/Powtarzam, s�yszysz mnie?
+{19248}{19308}- Tak, odczepi�am si�!|/- Podaj swoj� pozycj�.
+{19308}{19395}Nie wiem! Obracam si�!|Nie mog�...
+{19399}{19495}/- Podaj swoj� pozycj�.|- GPS pad�, nie mog�...
+{19507}{19570}/- Powiedz, co widzisz.|- Nic. Nie widz� nic!
+{19574}{19677}/- Widzisz Explorera albo ISS?|- Nie!
+{19677}{19769}/Skup si�. Wykorzystaj S�o�ce|/lub Ziemi�, podaj mi koordynaty.
+{19769}{19922}- Nie mog� oddycha�!|/- Koordynaty! Dr Stone, s�yszysz mnie?
+{19960}{20099}/S�yszysz mnie?|/Podaj swoj� pozycj�.
+{20131}{20231}/Widzisz Explorera?|/Widzisz ISS?
+{20231}{20267}/Skup si�.|/Daj mi cokolwiek.
+{20267}{20322}/Wykorzystaj S�o�ce lub Ziemi�,|/podaj mi koordynaty.
+{21195}{21245}Kowalski?|Kowalski, s�yszysz mnie?
+{21305}{21394}Kowalski, widz�...|Kowalski, widz� co�.
+{21394}{21533}Widz� Explorera.|Z p�nocy na dwunastej,
+{21560}{21648}a wahad�owiec jest na �rodku.
+{21684}{21828}Widz� chi�sk� stacj�.|Nie, to Mi�dzynarodowa Stacja Kosmiczna.
+{21854}{21982}ISS jest na... si�dmej.
+{22178}{22228}Poruczniku Kowalski, s�yszysz mnie?
+{22360}{22413}Explorer, s�yszysz mnie?
+{22626}{22674}Houston, s�yszysz mnie?
+{22790}{22866}Houston, tu specjalista ds. misji|Ryan Stone.
+{22866}{22921}Jestem poza struktur�|i dryfuj�.
+{22921}{22953}S�yszy mnie kto�?
+{23108}{23140}Ktokolwiek?
+{23240}{23271}Jest tam kto�?
+{23343}{23379}S�yszy mnie kto�?
+{23475}{23574}Prosz�, us�yszcie mnie.|Prosz�.
+{24072}{24139}/- Dr Stone, s�yszysz mnie?|- Tak, poruczniku Kowalski.
+{24144}{24199}- Tak, poruczniku Kowalski, jestem tu.|/- Potwierd�, s�yszysz mnie?
+{24204}{24307}- Tak, s�ysz�, jestem tutaj.|/- Po�wie� latark�.
+{24307}{24367}- Latark�?|/- Bym m�g� ci� zobaczy�.
+{24463}{24525}Dobra.|Jestem tutaj!
+{24525}{24621}/Tam jeste�. Trzymaj si�.|/Podaj sw�j status.
+{24633}{24736}- Nic mi nie jest.|/- Podaj swoje odczyty.
+{24741}{24887}- PSI na poziomie 3,6.|/- Podaj stan tlenu.
+{24904}{25014}Poziom tlenu spada.|I to szybko. Dziewi��...
+{25026}{25050}Nie, 8,8%.
+{25050}{25091}/- Za szybko oddychasz.|- 8,3%.
+{25091}{25154}/Spalasz za du�o tlenu.|/Nie mo�emy sobie na to pozwoli�.
+{25158}{25237}/- Uspok�jmy si�, dobrze?|- Przepraszam. Tak, przyj�am.
+{25237}{25302}/- Prawie jestem.|- Pospiesz si�.
+{25329}{25436}- Zga� latark�, dr Stone.|- Przepraszam.
+{25544}{25640}Mam ci�.|Teraz przypn� ci� do siebie.
+{25695}{25763}Wiem. Nie zdawa�a� sobie sprawy,|jak zniewalaj�co pi�kny jestem.
+{25775}{25858}Przesta� si� jednak gapi�|i pom� mi z podpi�ciem.
+{25978}{26091}- Mam.|- �wietnie.
+{26093}{26153}Troch� ci� popchn�,|by os�oni� ci� przed odrzutem.
+{26158}{26225}- Nie, nie, nie.|- Nie popchn�, tylko tr�c�.
+{26225}{26292}Nie, nie, nie.|Nie, do cholery!
+{26479}{26535}Widzisz?|Gdzie ty, tam i ja.
+{26678}{26702}Lepiej.
+{26734}{26762}Zmiatajmy st�d.
+{26829}{26870}- Cholera.|- Wiem, co masz na my�li.
+{26906}{26961}- Cholera.|- Spalasz tlen.
+{26985}{27074}Wracamy do wahad�owca.|Odpowiada ci taki plan?
+{27074}{27136}- Kurwa!|- Przyj��em.
+{27165}{27208}Houston, je�li mnie s�yszycie,|m�wi Kowalski.
+{27208}{27256}Dr Stone i ja|wracamy do bazy.
+{27256}{27335}Ka�cie Explorerowi przygotowa�|dla nas luki? S�yszycie?
+{27371}{27431}Houston, tu Kowalski.|S�yszycie mnie?
+{27455}{27508}Houston, je�li mnie s�yszycie,|m�wi Kowalski.
+{27522}{27563}- Nie s�ysz� nas.|- Nie wiadomo.
+{27566}{27601}Dlatego wci�� m�wimy.
+{27601}{27666}Je�li kto� to s�yszy,|mo�e w�a�nie ratowa� ci �ycie.
+{27690}{27777}- Ustaw alarm na 90 minut.|- Czemu 90?
+{27781}{27865}Wed�ug Houston odpady poruszaj� si�|z pr�dko�ci� 32000 km/h.
+{27872}{27937}Je�li we�miemy pod uwag� nasz� obecn� orbit�,|to mamy jakie� 90 minut,
+{27940}{27992}zanim zn�w skopi� nam dupska.
+{27999}{28088}- Poziom tlenu spad� do 6%.|- Dobrze.
+{28095}{28167}Mo�na si� posra�, lataj�c tu|tak bez kontroli, nie?
+{28198}{28304}- Fakt, mo�na.|- Spisa�a� si�.
+{28374}{28426}Ty te� da�e� rad�.
+{28517}{28573}Houston, je�li mnie s�yszycie,|m�wi Kowalski.
+{28577}{28702}Nasza obecna pozycja to w przybli�eniu|900 metr�w od Explorera.
+{28721}{28824}Dr Stone i ja chcieliby�my odzyska� cia�o|specjalisty ds. misji Shariffa
+{28836}{28915}i wr�ci� do wahad�owca.|Mam pozwolenie?
+{28992}{29059}- Przyj��em.|- Gdzie on jest?
+{29886}{29918}�ap go!
+{29994}{30071}- �ap!|- Pr�buj�!
+{30177}{30229}- Ci�gniesz mnie za sob�.|- Mam go!
+{30236}{30284}- Z�ap go jak swoj� walentynk�.|- Mam go.
+{30289}{30368}Nie mog� uruchomi� odrzutu,|kiedy oboje tak latacie.
+{31140}{31212}Mam nadziej�,|�e macie jakie� ubezpieczenie, Houston.
+{31219}{31375}Zniszczenia s� ogromne.|Szukamy ocala�ych.
+{31380}{31423}Tlen spad� do dw�ch procent.
+{31447}{31495}Dobra, uwaga na kraw�dzie!
+{31718}{31749}Tutaj!
+{32996}{33046}Houston, je�li mnie s�yszycie.|Dla potwierdzenia.
+{33058}{33142}Specjalista ds. misji dr Stone|i dow�dca Matthew Kowalski
+{33150}{33221}s� jedynymi ocala�ymi|z STS-1-5-7.
+{33293}{33325}Przepraszam za swoj� uparto��.
+{33329}{33382}Powinnam przesta� pracowa�,|kiedy tylko mi kaza�e�.
+{33385}{33480}I tak dosz�oby do zderzenia.|Nie mog�a� temu zapobiec.
+{33624}{33636}Tak?
+{33655}{33751}Musimy dosta� si� do stacji.
+{33783}{33818}Tam.
+{33854}{33922}To d�uga wycieczka.|Musimy wykorzysta� ich kapsu�� ratunkow�,
+{33922}{33982}Sojuza, �eby wr�ci� na Ziemi�.
+{33993}{34029}Zgadzasz si�?
+{34053}{34137}Dr Stone, zgadzasz si�?
+{34169}{34252}- Zgadzam.|- Id� przodem.
+{34320}{34344}Bo�e.
+{34576}{34626}Houston, je�li mnie s�yszycie.|M�wi Kowalski.
+{34643}{34722}Razem z dr Stone|zmierzamy w kierunku ISS
+{34730}{34799}i skorzystamy z ich kapsu�y Sojuz|do powrotu.
+{34823}{34878}ISS, je�li nas s�yszycie...
+{34895}{34945}prosimy o misj� ratunkow�.
+{35281}{35372}- Tlen spada do 2%.|- Ju� prawie tam jeste�my.
+{35410}{35451}Pi�kny, prawda?
+{35487}{35518}Co?
+{35526}{35562}Wsch�d s�o�ca.
+{35602}{35645}Tego b�dzie mi brakowa�o najbardziej.
+{35773}{35832}Gdzie dom, doktor Stone?
+{35897}{35948}Ryan, gdzie tw�j dom?
+{35993}{36024}Dom?
+{36048}{36120}Pod nami.|Matka Ziemia.
+{36139}{36183}Gdzie rozbi�a� sw�j namiot?
+{36254}{36334}- Lake Zurich.|- Gdzie to jest, u diab�a?
+{36422}{36477}- Illinois.|- Illinois.
+{36477}{36521}Centralna Strefa Czasowa.
+{36549}{36592}W przybli�eniu b�dzie...
+{36609}{36645}20:00.
+{36652}{36729}Co robi� o tej porze|porz�dni mieszka�cy Lake Zurich?
+{36765}{36801}Nie wiem.
+{36815}{36916}- Nie dam rady, tylko ci� spowalniam.|- Co by� robi�a?
+{36983}{37060}Ryan, jest 20.
+{37079}{37158}Wysz�a� ze szpitala|po osiemnastogodzinnym dy�urze.
+{37178}{37213}Jedziesz do domu.
+{37297}{37329}Radio.
+{37377}{37460}- S�ucham radia.|- No i prosz�.
+{37465}{37489}Niech zgadn�.
+{37496}{37592}NPR? Classical?|Top forty?
+{37683}{37767}Wszystko mi jedno,|byle nie gadali. Jad�.
+{37834}{37870}Dok�d?
+{37935}{38033}- Po prostu jad�.|- Czego b�dzie ci brakowa�o?
+{38081}{38125}Czeka tam jaki� pan Stone?
+{38153}{38232}- Nie.|- Nikt wyj�tkowy?
+{38309}{38395}Nikt tam nie patrzy w g�r�|i nie my�li o tobie?
+{38455}{38491}Ryan?
+{38666}{38700}Mia�am c�rk�.
+{38957}{38992}Mia�a cztery lata.
+{39057}{39160}Bawi�a si� w berka.|Po�lizgn�a si�, uderzy�a w g�ow� i umar�a.
+{39227}{39280}Najg�upszy spos�b.
+{39419}{39491}Jecha�am, kiedy do mnie zadzwonili...
+{39515}{39578}Od tamtej chwili tak �yj�.
+{39601}{39741}Wstaj�, do pracy|i po prostu jad�.
+{40397}{40455}Tlen spada do jednego procenta.
+{40748}{40795}Mam dobre i z�e wiadomo�ci.
+{40795}{40855}Dobra jest taka,|�e jeste�my pi�� minut drogi od ISS
+{40860}{40908}i wiem, gdzie Rosjanie trzymaj� w�dk�.
+{40920}{40980}I dobrze, bo jad� na oparach.
+{41006}{41134}Z�a natomiast jest taka,|�e zabraknie mi 10 minut do rekordu Anatolija i...
+{41158}{41205}- Co?|- Niskie ci�nienie zbiornika z tlenem.
+{41270}{41345}- Masz troch� tlenu w kombinezonie.|- Kumam.
+{41349}{41392}Musisz bra� �yczki, nie hausty.
+{41416}{41498}Wino, nie piwo.|S�cz, Ryan.
+{41517}{41584}Houston, widzimy ISS.
+{41591}{41680}Stacj� ewakuowano,|bo brakuje pierwszego Sojuza.
+{41687}{41783}Na drugim wida� uszkodzenia,|spadochron otwarty.
+{41795}{41884}Wykorzystanie jej w celu powrotu|jest niemo�liwe.
+{41903}{41946}Nie powinni�my zawr�ci�?|Dryfujemy.
+{41954}{42013}Jeszcze nie.|Nie �artowa�em z tymi oparami.
+{42018}{42078}Zosta�o nam jeszcze na jeden|albo dwa odrzuty.
+{42083}{42117}Je�li mamy szcz�cie.
+{42421}{42447}Szykuj si�.
+{42682}{42711}Cel.
+{42726}{42754}Pal!
+{42913}{42996}- Hamuj!|- Nie mog�, zbiornik pusty.
+{42996}{43056}Walniemy mocno,|�ap to, co si� da!
+{43347}{43418}Co robi�?!
+{43665}{43701}Ryan!
+{43792}{43876}Lina p�k�a, oderwa�am si�!
+{43881}{43917}�ap si� czego�!
+{43972}{44008}Czegokolwiek!
+{44399}{44430}Ryan!
+{44461}{44517}- Daj r�k�!|- Id�.
+{44521}{44600}Ju�, ju�.
+{44658}{44744}- Kurwa!|- Nie...
+{44776}{44811}Mam ci�.
+{45034}{45058}Mam.
+{45130}{45207}Trzymaj si�,|a ja zaczn� ci� wci�ga�.
+{45209}{45286}- Pani doktor.|- Trzymaj mocno, wci�gn� ci�.
+{45293}{45337}- Ryan, pos�uchaj.|- Wci�gn� ci�.
+{45337}{45361}- Musisz mnie pu�ci�.|- Nie.
+{45365}{45425}Liny s� zbyt lu�ne.|Ci�gn� ci� za sob�.
+{45432}{45480}Pu�� mnie albo zginiemy oboje.
+{45485}{45560}Nigdzie ci� nie puszcz�.
+{45696}{45756}- Ryan, pu��.|- Nie.
+{45782}{45835}Nigdzie ci� nie puszcz�.
+{45840}{45922}- Nie masz na to wp�ywu.|- Nie r�b tego.
+{45926}{46041}Nie r�b tego, prosz�.
+{46053}{46113}Matt, prosz�.
+{46185}{46221}Dasz rad�, Ryan.
+{46257}{46281}Nie!
+{46801}{46883}Prawie ci� z�apa�am.
+{47259}{47295}Ryan, s�yszysz mnie?
+{47363}{47492}- S�yszysz?|- Znikn�� alarm tlenu.
+{47494}{47538}Musisz dosta� si� na stacj�.
+{47562}{47602}Widzisz �luz�?
+{47820}{47897}Ryan, s�yszysz?
+{47952}{47993}Szukaj jej.
+{48055}{48115}Nad tob�, obok modu�u Zarya.
+{48206}{48266}- Widzisz?|- Tak.
+{48271}{48391}- Widz�.|- Tam masz i��.
+{48410}{48458}Masz zawroty g�owy, prawda?
+{48465}{48614}Oddychasz dwutlenkiem w�gla.|Tracisz �wiadomo��.
+{48621}{48681}Musisz dosta� si� do stacji.
+{48712}{48839}Drugi Sojuz jest uszkodzony,|ale nadaje si� na niedzieln� przeja�d�k�.
+{48851}{48892}Niedzieln� przeja�d�k�?
+{48899}{49014}Sp�jrz na zach�d.|Widzisz kropk�?
+{49019}{49079}- To chi�ska stacja.|- Tak.
+{49084}{49142}Przejmiesz Sojuza i dojedziesz tam.
+{49170}{49249}Chi�ska szalupa to Shenzhou.
+{49271}{49333}- Nie prowadzi�am Shenzhou.|- To bez znaczenia.
+{49341}{49400}Maj� identyczny protok�|jak Sojuz.
+{49516}{49616}- Prowadzi�a� Sojuza?|- Na symulatorze.
+{49635}{49767}- To masz poj�cie.|- Rozbi�am go.
+{49772}{49822}To symulator, po to go stworzono.
+{49899}{49966}Ale rozwala�am go za ka�dym razem.
+{49983}{50026}Skieruj to cholerstwo na Ziemi�.
+{50026}{50074}To nie fizyka j�drowa.
+{50086}{50177}Jak dobrze p�jdzie, jutro o tej porze|b�dziesz w Lake Zurich z niesamowit� histori�.
+{50201}{50237}S�yszysz?
+{50278}{50364}- Ryan, s�yszysz?|- Przejm� Sojuza i jad� po ciebie.
+{50372}{50412}- Nie.|- Id� po ciebie.
+{50417}{50472}- Nie, b�d� za daleko.|- Id� po ciebie.
+{50477}{50527}Ten statek ju� odp�yn��.
+{50559}{50618}Ryan, musisz nauczy� si� odpuszcza�.
+{50647}{50707}Chc� us�ysze�, �e dasz rad�.
+{50758}{50805}Powiedz to.
+{50846}{50945}- Dam rad�.|- No to do dzie�a.
+{50966}{51033}Nazwa� dziewczyn� Ryan?
+{51069}{51160}- Ojciec chcia� syna.|- Zbli�asz si� do �luzy?
+{51191}{51261}- Jeszcze nie.|- To id�.
+{51280}{51335}Skoro dzieli nas taka odleg�o��,
+{51340}{51414}- podobam ci si�, nie?|- Co?
+{51438}{51510}Ludzie m�wi�,|�e mam pi�kne, niebieskie oczy.
+{51558}{51685}Masz pi�kne...|niebieskie oczy.
+{51690}{51733}Mam br�zowe oczy.
+{51817}{51877}- Powiem ci co� zabawnego.|- Co?
+{51884}{51987}Pobij� rekord Anatolija|na d�ugi czas.
+{51987}{52059}Nie, id� po ciebie.
+{52131}{52186}- Bo�e.|- Co?
+{52342}{52409}Powinna� zobaczy� s�o�ce nad Gangesem.
+{52462}{52510}Niesamowite.
+{58873}{58917}Gdzie jeste�?
+{58921}{59000}Tutaj jeste�.
+{59259}{59303}Matt, m�wi Ryan.
+{59374}{59434}Matt, m�wi Ryan.
+{59511}{59595}Matt, jestem w stacji.|S�yszysz mnie?
+{59749}{59789}Matt, m�w do mnie.
+{59801}{59861}Podaj mi swoj� pozycj�.
+{59885}{59971}Gdzie jeste�?|Co widzisz?
+{60084}{60180}G�ba ci si� nie zamyka od przyl�dka Canaveral,|a teraz milczysz?
+{60182}{60278}M�w cokolwiek!
+{60429}{60573}Opowiedz o Mardi Gras.|Opowiedz o tym ow�osionym typie.
+{60580}{60621}Co si� wtedy sta�o?
+{60626}{60681}Co spotka�o tego ow�osionego?
+{60832}{60880}M�w do mnie.
+{60971}{61014}Prosz�.
+{61381}{61417}Houston, je�li mnie s�yszycie...
+{61480}{61580}Specjalista Ryan Stone|nadaje z ISS.
+{61628}{61739}Stracono komunikacj�|z dow�dc� Matthew Kowalskim.
+{61810}{61863}Nie odpowiada.
+{61906}{61962}Nie wida� go.
+{62026}{62206}Ja, Ryan Stone, jestem jedyn� ocala��|z STS-1-5-7.
+{62547}{62594}Co teraz?
+{64975}{65078}Gdzie zasilanie?
+{65162}{65258}Jak na treningu.|Odpi�cie.
+{65275}{65361}Odpi�cie.|Czerwona.
+{65565}{65651}Gdzie to jest?
+{65812}{65867}Pami�tam to.
+{66229}{66296}Nie mam czterech minut.
+{66316}{66340}Przechodzimy na r�czne.
+{66363}{66392}Dalej.
+{66399}{66555}Aktywacja, odpi�cie.
+{67157}{67207}Siedem minut na wydostanie si� st�d.
+{67368}{67416}Dobra.
+{67797}{67833}Co?
+{68056}{68111}Nie!
+{69255}{69298}Dobrze.
+{69310}{69372}Dobrze.
+{69444}{69468}No dalej.
+{70332}{70355}Super.
+{71458}{71535}Czyste niebo|z ryzykiem odpad�w satelit�w.
+{73302}{73374}Oderwiemy si� i do domu.|Bu�ka z mas�em.
+{74141}{74182}Co tu mamy?
+{74196}{74237}Dobra.
+{74491}{74527}Kurna.
+{74698}{74746}Dalej.
+{74793}{74817}Dobra.
+{77004}{77040}Nienawidz� kosmosu.
+{77520}{77560}Zamknij si�.
+{78018}{78049}Dobrze.
+{78157}{78200}Stabilizujemy.
+{78627}{78690}Jed�my na chi�sk� stacj�.
+{78714}{78749}Houston, je�li mnie s�yszycie,
+{78754}{78889}Tiangong znajduje si�|100 mil na zach�d.
+{78898}{79064}Odchy� trzyna�cie stopni od kursu.|Poprawi� trajektori�.
+{79756}{79852}Uruchomi� S-Ka-Dae|za pi��... cztery...
+{79862}{79920}trzy... dwie... jedn�.
+{80274}{80327}Co si� dzieje?
+{80401}{80430}Jeden.
+{80773}{80811}No we�.
+{80907}{80962}To jaki� �art.
+{80972}{81010}To jaki� �art!
+{81126}{81171}Nie, ty chuju...
+{81408}{81521}Houston, tu doktor Ryan Stone.
+{81533}{81629}M�wi� z Sojuza TMA-1-4-M.
+{81641}{81735}Nie mam paliwa i dryfuj�.
+{81782}{81871}Houston. M�wi dr Ryan Stone.
+{81886}{81910}S�yszycie mnie?
+{82022}{82133}Houston. M�wi Ryan Stone.|S�yszycie mnie?
+{82214}{82329}Houston, m�wi specjalista...|ds. misji Ryan Stone, s�yszycie?
+{82367}{82439}Houston, Houston,|potwierd�cie.
+{82444}{82531}Houston, przechodzicie na|cz�stotliwo�� A.M.
+{82566}{82590}S�yszycie?
+{82614}{82694}To chi�ska stacja?|To Tiangong? Potwierd�cie.
+{82730}{82837}Mayday, mo�ecie potwierdzi�?|Mayday, mayday, mayday.
+{82869}{82981}Tak, tak. Mayday, mayday.|Mayday, mayday.
+{83125}{83192}To twoje...|Imi�?
+{83197}{83271}Aningaaq to twoje... imi�?
+{83312}{83331}Mayday!
+{83336}{83403}Nie jestem mayday.|Jestem Stone.
+{83408}{83502}Dr Ryan Stone.|Potrzebuj� pomocy...
+{83595}{83619}To psy.
+{83782}{83825}To z Ziemi.
+{84127}{84247}Aningaaq, popro� psa, �eby szczekn��.
+{84295}{84405}Twoje psy.
+{85480}{85528}Umr�, Aningaaq.
+{85585}{85671}Wiem, wszyscy umrzemy.|Ka�dy to wie.
+{85676}{85727}Ale ja umr� dzisiaj.
+{85791}{85866}To zabawne wiedzie�...
+{85942}{86009}Ale nadal si� boj�.
+{86026}{86069}Naprawd� mocno.
+{86137}{86232}Nikt za mn� nie zap�acze.|Nikt sie nie pomodli.
+{86297}{86340}Zap�aczesz za mn�?
+{86376}{86431}Zm�wisz za mnie modlitw�?
+{86443}{86487}A mo�e ju� za p�no?
+{86592}{86666}Prawd� m�wi�c nigdy w �yciu|si� nie modli�am.
+{86722}{86767}Nikt mnie nie nauczy�.
+{86861}{86921}Nikt mnie nie nauczy�.
+{87191}{87225}Dziecko.
+{87527}{87577}Jest tam dziecko?
+{87647}{87697}�piewasz ko�ysank�?
+{87769}{87812}S�odkie.
+{87865}{87916}Tez �piewa�am dziecku.
+{88009}{88059}Mam nadziej�, �e wkr�tce j� zobacz�.
+{89747}{89819}To pi�kne, Aningaaq.|�piewaj tak dalej.
+{89870}{89930}Uko�ysz mnie do snu.
+{89970}{90069}�piewaj, �piewaj.
+{90773}{90819}Nie!
+{91852}{91900}Sprawd� zegarek.|Trzyna�cie godzin i 11 minut.
+{91908}{91979}Powiedz Anatolijowi, �e go pokona�em.
+{91996}{92044}- Ponuro tu, co?|- Jakim cudem...?
+{92049}{92111}- Uwierz, niez�a historia.|- Ale jak...?
+{92176}{92214}Lepiej.
+{92226}{92310}Odnalaz�em troch� dodatkowej mocy.
+{92318}{92377}Nie rozprasza�a� mnie,|wi�c by�o �atwiej.
+{92377}{92473}Ciesz� si�, �e ci� widz�.|My�la�em, �e nie dasz rady.
+{92485}{92552}- Znalaz�a� w�dk�?|- Ale ty...
+{92569}{92636}Nie powiedzia�e� mi, gdzie jest...
+{92775}{92859}Za Anatolija.|Na zdrowie.
+{92979}{93090}Dobra, spadajmy st�d.
+{93142}{93250}Chi�ska stacja jest sto mil st�d.|Spacerek.
+{93257}{93293}- Nie damy rady.|- Damy..
+{93305}{93334}Nie ma paliwa, pr�bowa�am.
+{93341}{93413}- Zawsze da si� co� zrobi�.|- Pr�bowa�am wszystkiego.
+{93413}{93464}A silnik�w hamuj�cych?
+{93468}{93521}- S�u�� do l�dowania...|- L�dowanie to startowanie.
+{93524}{93576}Jedno i to samo.|Nie uczyli ci� na treningu?
+{93581}{93629}Nigdy nie wyl�dowa�am, m�wi�am.
+{93631}{93691}- Ale wiesz o tym.|- Ale zawsze si� rozbija�am.
+{93699}{93751}Chcesz wr�ci� czy zosta� tutaj?
+{93830}{93874}Rozumiem, mi�o tu nawet.
+{93950}{94118}Mo�esz wy��czy� systemy,|�wiat�a...
+{94137}{94197}zamkn�� oczy i odci�� si�.
+{94221}{94264}Nikt nie zrobi ci tutaj krzywdy.
+{94276}{94312}Jest bezpiecznie.
+{94396}{94463}Ale gdzie sens �ycia?
+{94571}{94667}Twoje dziecko umar�o.|Gorzej ju� nie b�dzie.
+{94727}{94789}Nadal chodzi o to, co zrobisz.
+{94818}{94897}Je�li zdecydujesz si� dzia�a�,|to trzeba zacz��.
+{94921}{94976}Usi���, cieszy� si� podr�.
+{94993}{95080}Postaw nogi na ziemi|i zacznij wreszcie �y�.
+{95084}{95175}- Jak si� tu dosta�e�?|- M�wi�em ci, niesamowita historia.
+{95187}{95247}- Ryan.|- Co?
+{95252}{95307}Czas wraca� do domu.
+{96350}{96381}L�dowanie...
+{96434}{96537}L�dowanie to startowanie.
+{96549}{96580}Powiedzia�am...
+{96916}{96983}L�dowanie to zielona.
+{97317}{97405}L�dowanie, dobra.
+{97422}{97539}Silniki �agodnego l�dowania|w��czaj� si� trzy metry przed l�dowaniem.
+{97609}{97659}Spryciarz z ciebie, Matt.
+{97671}{97810}Musz� pozby� si� B.O.|i modu�u silnika.
+{98069}{98105}Separacja trzech modu��w.
+{98136}{98160}Teraz.
+{98563}{98611}Houston, najsprytniejsza cz��.
+{98623}{98762}Sojuz musi my�le�,|�e jeste�my trzy metry nad Ziemi�.
+{98861}{98985}Matt, czas si� odwdzi�czy�|za wys�uchiwanie twojej gadaniny.
+{98997}{99040}Musisz mi pom�c.
+{99072}{99201}Zobaczysz umorusan� dziewczynk�|z br�zowymi w�osami.
+{99215}{99295}Nie lubi si� czesa�.
+{99319}{99352}Ma na imi� Sarah.
+{99378}{99498}Mo�esz jej przekaza�,|�e mama znalaz�a jej czerwony but?
+{99527}{99577}Martwi�a si� tym, Matt.
+{99594}{99637}A le�a� pod ��kiem.
+{99728}{99848}U�ciskaj j� i daj ca�usa ode mnie.|Powiedz, �e mama t�skni.
+{99868}{100016}Powiedz jej, �e jest moim anio�kiem.|Napawa mnie dum�.
+{100136}{100210}Powiedz jej jeszcze, �e nie wymi�kam.
+{100361}{100407}I �e j� kocham, Matt.
+{100433}{100489}Powiedz jej, �e kocham j�|ponad �ycie.
+{100558}{100601}Zrobisz to dla mnie?
+{100656}{100697}Potwierdzasz?
+{100752}{100788}Jedziemy.
+{101659}{101719}Tracisz wysoko��, Tiangong.
+{101783}{101870}B�dziesz upada� i zetkniesz si�|z atmosfer�.
+{101886}{101958}Ale nie beze mnie, bo jeste� moim|ostatnim �rodkiem lokomocji.
+{102049}{102085}Czekaj.
+{102256}{102280}5...
+{102308}{102337}4...
+{102363}{102392}3...
+{102421}{102459}Dosy� jazdy.
+{102503}{102543}Wracamy do domu.
+{102658}{102730}Gotowa.|Dobra.
+{102759}{102783}Gotowa.
+{102953}{103076}Gdzie jeste�?|45, 90, 180.
+{103905}{103929}Dobrze.
+{103953}{103989}Cholera.
+{104020}{104123}W d�.|Chod� do mamy.
+{106065}{106120}Cholera!
+{106353}{106435}No dalej, Shenzhou.
+{106463}{106564}Kurwa! T�dy. Shenzhou.
+{106739}{106813}Gdzie jeste�?|Co to?
+{107952}{108036}W Sojuzie tu si� w��cza moc.
+{108120}{108194}Od��czanie.
+{108218}{108262}Ene, due...
+{108266}{108374}Nie brzmi to najlepiej.|Like, fake.
+{108422}{108461}No hablo chino.
+{108489}{108544}Toba, borba.
+{108585}{108648}Dobra.
+{108847}{108892}Houston. Houston,|je�li mnie s�yszycie.
+{108899}{108990}Specjalista ds. misji Ryan Stone|zg�asza si� z Shenzhou.
+{109000}{109046}Oddokowa�am si� z Tiangong...
+{109158}{109225}Mam z�e przeczucia|co do tej misji.
+{109281}{109328}Przypomnij mi opowie��, Houston...
+{109388}{109484}Zreszt� niewa�ne.
+{109544}{109623}Robi si� gor�co.
+{109691}{109786}S� tylko dwa wyj�cia.
+{109791}{109902}Albo spadn� w jednym kawa�ku|z niesamowit� histori�,
+{109918}{109973}albo spal� si� za 10 minut.
+{110009}{110117}Co ma by�, b�dzie!
+{110297}{110333}Bo tak czy inaczej...
+{110388}{110443}to b�dzie niez�a jazda.
+{110503}{110544}Jestem gotowa.
+{113567}{113692}/Shenzhou, tu Houston.|/Przechodz� na cz�stotliwo�� FM.
+{113728}{113788}/Radary wykry�y ci�|/na trajektorii powrotu.
+{113790}{113850}/Je�li s�yszysz, potwierd�.
+{114351}{114471}/M�wi Houston.
+{114586}{114634}/Prosz� poda� to�samo��.
+{114658}{114737}/Wys�ali�my misj� ratunkow�.
+{114742}{114795}/Jest ju� w drodze.
+{119163}{119197}Dzi�kuj�.
+{120748}{120815}.:: GrupaHatak.pl ::.
+{120815}{120911}T�umaczyli: rarehare i j�zek
+{120959}{121031}.::  ::.|

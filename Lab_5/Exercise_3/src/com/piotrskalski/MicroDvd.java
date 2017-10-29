@@ -19,7 +19,8 @@ public class MicroDvd {
     public void delay(String inputPath, String outputPath, int delay, int fps)  throws InvalidMethodArgumentsException,
                                                                                 InvalidSubtitlesFormatException,
                                                                                 InvalidFramesOrderException,
-                                                                                FileNotFoundException
+                                                                                FileNotFoundException,
+                                                                                NegativeFrameTimeException
     {
         // validation of FPS argument
         if (fps < 0) throw new InvalidMethodArgumentsException("Value of FPS must be greater than 0.");
@@ -56,14 +57,26 @@ public class MicroDvd {
             int endFrame = Integer.parseInt(matcher.group(2));
 
             // validation whether order of frames is correct
-            if(startFrame > endFrame) {
+            if(startFrame > endFrame) throw new InvalidFramesOrderException("Frames in line " + counter + " are ordered incorrectly.");
 
-            }
+            // applying delay on start and end frame times
+            startFrame += (delay/1000)*fps;
+            endFrame += (delay/1000)*fps;
+
+            // validation whether frame time is positive
+            if((startFrame < 0) || (endFrame < 0)) throw new NegativeFrameTimeException("Applying delay on frame times in line " + counter + " resulted in negative value.");
+
+            // saving updated line to output file
+            fileWriter.println(newLine(startFrame, endFrame, matcher.group(3)));
         }
 
         // closing files streams
         fileReader.close();
         fileWriter.close();
+    }
+
+    private static String newLine (int startFrame, int endFrame, String subtitleContent) {
+        return "{" + startFrame + "}" + "{" + endFrame + "}" + subtitleContent;
     }
 
 }
