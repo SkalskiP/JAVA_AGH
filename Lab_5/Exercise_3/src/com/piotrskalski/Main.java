@@ -15,6 +15,8 @@ public class Main {
             e.printStackTrace();
         } catch (InvalidSubtitlesFormatException e) {
             e.printStackTrace();
+        } catch (InvalidFramesOrderException e) {
+            e.printStackTrace();
         }
     }
 }
