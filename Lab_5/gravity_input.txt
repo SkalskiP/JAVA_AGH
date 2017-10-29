@@ -1,0 +1,661 @@
+{328}{527}/Na wysokoœci 600 kilometrów temperatura waha siê|/miêdzy 126 a -100 stopniami Celsjusza.
+{544}{681}/DŸwiêk siê nie niesie.|/Nie ma ciœnienia ani tlenu.
+{755}{858}/¯ycie w kosmosie jest niemo¿liwe.
+{875}{949}GRAWITACJA
+{954}{1014}.:: GrupaHatak.pl ::.
+{1017}{1081}T³umaczenie:|rarehare & józek
+{1539}{1674}/Proszê o potwierdzenie, ¿e pierwsza i druga|/czêœæ obudowy dysku P1 zosta³y usuniête.
+{1690}{1846}/- DMA M-1, M-2, M-3 i M-4 zakoñczone.|/- Przyj¹³em, Explorer.
+{1873}{1973}/Dr Stone, tu Houston.|/Lekarzy niepokoj¹ odczyty EKG.
+{1992}{2088}/- Nic mi nie jest, Houston.|/- Lekarze s¹dz¹ inaczej, pani doktor.
+{2088}{2177}/- Odczuwa pani nudnoœci?|/- Nie bardziej ni¿ zwykle, Houston.
+{2179}{2215}/Diagnostyka pozytywna.
+{2235}{2306}/Po³¹czenie z kart¹ komunikacyjn¹|/gotowe do obioru danych.
+{2340}{2414}/Jeœli to zadzia³a, kiedy wyl¹dujemy,|/stawiam wszystkim kolejkê.
+{2438}{2474}/Umowa, pani doktor.
+{2474}{2539}/Tylko pamiêtaj,|/¿e Houston preferuje margarity.
+{2589}{2681}/Uruchamiam kartê.|/PotwierdŸcie po³¹czenie.
+{2702}{2757}/Brak potwierdzenia.|/Nie odczytujemy ¿adnych danych.
+{2781}{2844}/Zaczekajcie, Houston,|/zrestartujê kartê.
+{2848}{2884}/Czekamy.
+{2896}{2985}/- Houston, mam z³e przeczucia.|/- Wyjaœnij.
+{2992}{3040}/Opowiem wam historiê.
+{3043}{3131}/W '96 roku,|/kiedy by³em tu od 42 dni,
+{3138}{3191}/zawsze nad Teksasem|/spogl¹da³em w dó³ wiedz¹c,
+{3191}{3282}/¿e pani Kowalski patrzy w niebo,|/myœl¹c o mnie.
+{3306}{3349}/Wysy³a³em jej ca³usy|/przez szeœæ tygodni.
+{3354}{3453}/Kiedy wyl¹dowaliœmy w Edwards, dowiedzia³em siê,|/¿e zwia³a z jakimœ prawnikiem.
+{3457}{3529}/- Spakowa³em siê i ruszy³em autem do...|/- Tijuany.
+{3529}{3577}/Ju¿ to opowiada³eœ, Kowalski.
+{3582}{3668}/Z tego, co Houston pamiêta,|/odjecha³a w GTO z '74.
+{3676}{3752}/In¿ynierka prosi o poziom paliwa|/w prototypie jet packa.
+{3771}{3839}/Przez piêæ godzin w przestrzeni|/zu¿y³em tylko 30%.
+{3860}{3898}/Przeka¿cie inzynierom wyrazy szacunku.
+{3898}{4006}/Poza drobn¹ wad¹ przy zerowaniu osi wzd³u¿nej,|/ten jet pack to kawa³ dobrej roboty.
+{4050}{4090}/In¿ynierka przekazuje podziêkowania.
+{4090}{4157}/Przeka¿cie, ¿e wci¹¿ wolê|/swoj¹ corvettê z '67.
+{4162}{4237}- A propos, wspomina³em mo¿e o...|/- Znamy historiê o corvecie, Matt.
+{4241}{4320}- Nawet In¿ynierka?|/- Zw³aszcza ona.
+{4349}{4392}/Bêdziemy têskniæ, Matt.
+{4402}{4488}/- Restart karty komunikacyjnej w trakcie.|/- Dziêkujemy, pani doktor.
+{4496}{4536}/Shariff, podaj swój status?
+{4548}{4635}/Prawie skoñczy³em.|/Wymieniam modu³ baterii A-1 i C.
+{4683}{4783}/Mo¿esz byæ konkretniejszy?|/Nieokreœlone szacunki niepokoj¹ Houston.
+{4790}{4850}/Nie, Houston.|/Nie ma powodów do niepokoju.
+{4855}{4975}/To szkodzi sercu.|/System gotowy do reaktywacji.
+{4994}{5081}/Teleskop Hubble'a pod³¹czony.|/Uaktualnienie funkcjonalne.
+{5085}{5145}/To brawa dla ciebie, Shariff.
+{5150}{5212}/Gratulacje.|/Wracaj, zrób sobie wolne.
+{5339}{5431}/Matt, widzisz, co robi teraz|/specjalista ds. misji Shariff?
+{5455}{5615}Wygl¹da to na pewn¹ odmianê macareny.|Ale to tylko strza³.
+{5630}{5737}/Dr Stone, Houston. Lekarze informuj¹|/o spadku temperatury do 35.1 stopni
+{5737}{5802}/i wzroœcie pulsu do 70.
+{5821}{5905}/- Jak siê pani czuje?|- Nic mi nie jest, Houston.
+{5912}{5989}Po prostu dzia³anie bez grawitacji|jest trudniejsze ni¿ siê wydaje.
+{6013}{6088}/Dr Stone, lekarze pytaj¹,|/czy chce pani wróciæ do Explorera.
+{6104}{6183}Nie, jesteœmy tu od tygodnia, Houston.|Skoñczmy to.
+{6193}{6275}- Karta pod³¹czona.|/- Niestety.
+{6275}{6346}/Nic nie odbieramy, pani doktor.
+{6375}{6454}- Spróbujcie znowu.|/- Wci¹¿ nic.
+{6514}{6598}- Houston, mo¿ecie wy³¹czyæ muzykê?|/- Kowalski.
+{6610}{6689}- Nie ma problemu.|- Dziêki, Kowalski.
+{6768}{6836}Teraz, Houston?|/- Nic.
+{6852}{6912}Mo¿liwe, ¿e Houston|b³êdnie interpretuje dane?
+{6924}{6979}/Nie otrzymujemy ¿adnych danych.
+{6996}{7083}/In¿ynierka zaleca|/sprawdzenie awarii komponentów.
+{7118}{7238}Sprawdzê, co siê dzieje.|Co my tu mamy?
+{7421}{7478}Po kontroli wizualnej|nie widzê ¿adnych problemów.
+{7481}{7540}ród³o awarii musi znajdowaæ siê|w panelu komunikacyjnym.
+{7552}{7605}/Prawdopodobnie tak.
+{7612}{7672}/In¿ynierka przyznaje,|/¿e nas pani ostrzega³a.
+{7696}{7751}/To najwiêksze przeprosiny,|/na jakie ich staæ.
+{7756}{7864}/Powinniœmy byli ich pos³uchaæ, pani doktor.|/Bêdziemy musieli improwizowaæ.
+{7871}{7967}- Ju¿ dzia³am.|/- Ile czasu pani potrzebuje?
+{7979}{8054}- Godziny.|/- Œwietnie.
+{8058}{8130}/Instalacja systemu w Hubble'u|/to g³ówny cel misji,
+{8135}{8185}/wiêc doceniamy|/cierpliwoœæ, pani doktor.
+{8202}{8269}/Kowalski, wiemy, ¿e nie interesuj¹ ciê|/takie rzeczy,
+{8274}{8336}/ale dla twojej informacji,|/opóŸnienie nie bêdzie tak du¿e,
+{8341}{8408}/byœ pobi³ rekord przebywania|/w przestrzeni Anatolija So³owjowa.
+{8420}{8504}/- Zabraknie ci...|- 75 minut?
+{8511}{8552}Nawet o tym nie pomyœla³em.
+{8571}{8698}/- Matt, to by³ zaszczyt.|- Wzajemnie, Houston.
+{8715}{8763}/Mi³ego ostatniego spaceru.
+{8775}{8854}Mam asystowaæ dr Stone|w usuniêciu panelu?
+{8859}{8919}- By³oby œwietnie.|/- Masz pozwolenie.
+{8921}{8957}Dziêkujê, Houston.
+{8974}{9037}- Mogê do³¹czyæ do zabawy?|- Pewnie.
+{9037}{9156}- Jak siê czujesz?|- Jak chihuahua po wirowaniu.
+{9178}{9216}To by³ ciê¿ki tydzieñ.
+{9240}{9341}Jeœli ciê to pocieszy, podczas pierwszego lotu|wykaszla³em wszystko oprócz nerek.
+{9365}{9396}Cholera.
+{9547}{9578}Wybacz.
+{9607}{9698}Przywyk³am do laboratorium w szpitalu,|gdzie rzeczy spadaj¹ na pod³ogê. Dziêki.
+{9746}{9833}Ty tu jesteœ geniuszem.|Ja tylko prowadzê.
+{9845}{9945}Nazwiesz mnie geniuszem, jeœli uda mi siê|uruchomiæ p³ytê w ci¹gu godziny.
+{9952}{10020}/- Explorer, tu Houston.|- Œmia³o, Houston.
+{10029}{10127}/NORAD informuje, ¿e rosyjski satelita|/zosta³ zestrzelony przez rakietê.
+{10132}{10247}/Uderzenie stworzy³o chmurê odpadów|/orbituj¹cych 32 000 km/h.
+{10259}{10343}/Obecna orbita odpadów nie przebiega|/po waszym torze.
+{10350}{10442}/- Bêdziemy was informowaæ na bie¿¹co.|- Przyjêliœmy, Houston.
+{10454}{10578}- Powinniœmy siê martwiæ?|- Nie, zmartwienia zostaw ch³opakom.
+{10602}{10677}Explorer, uruchom ramiê|i skieruj do ³adowni.
+{10681}{10724}/Oczekujcie na ruch.
+{10741}{10828}Kiedy ju¿ pracujesz dla NASA,|jak ci siê podobamy?
+{10832}{10885}To jak wygrana na loterii, nie?
+{10888}{10959}Cieszy³am siê tylko,|¿e nie przestali finansowaæ moich badañ.
+{10959}{11019}- Ile trwa³ twój trening?|- Szeœæ miesiêcy.
+{11019}{11063}- Z wakacjami?|- Tak.
+{11067}{11170}- Co to za system skanuj¹cy?|- Nic takiego, Matt.
+{11170}{11235}To tylko nowa para oczu|do skanowania krañców wszechœwiata.
+{11242}{11314}Zaprojektowany jest do szpitali,|ale ten jest prototypem.
+{11326}{11369}/Czekajcie na zamkniêcie.
+{11391}{11496}Oni nie finansuj¹ prototypów.|Nawet za twe piêkne, niebieskie oczy.
+{11525}{11676}- Moje oczy s¹ br¹zowe.|- Teraz s¹ krwiste.
+{11695}{11724}Kowalski!
+{11731}{11959}- Czy to nie œwietne?|- I on chodzi³ na Harvard.
+{12007}{12129}Jedno musisz przyznaæ,|takiego widoku nie pobijesz.
+{12225}{12369}- Co lubisz w byciu tutaj?|- Ciszê.
+{12408}{12456}Mog³abym do niej przywykn¹æ.
+{12949}{12983}Niesamowite.
+{12985}{13057}Houston, po pierwszym przegl¹dzie,|panele komunikacyjne wydaj¹ siê zepsute.
+{13057}{13124}Od³¹czyæ zasilanie awaryjne?
+{13129}{13189}Pani jest tu ekspertem.|Proszê decydowaæ.
+{13189}{13252}Houston, mam z³e przeczucia|co do tej misji.
+{13256}{13371}/- Rozwiñ.|- To samo uczucie mia³em na Mardi Gras w '87.
+{13407}{13439}/Zgadza siê.
+{13443}{13551}/O dziwo, Kontrola nie s³ysza³a historii|/o Mardi Gras. Kontynuuj.
+{13558}{13623}Jest dzieñ pierwszy|i pêdzê po Bourbon Street
+{13630}{13702}szukaj¹c siostry znajomego.
+{13714}{13786}Na ulicach s¹ t³umy.|Myœlê, ¿e nie ma szans, bym j¹ znalaz³.
+{13791}{13889}- Przechodzê do wymiany.|- Nagle spogl¹dam w górê i spostrzegam j¹.
+{13894}{13942}Chcê ju¿ krzyczeæ,|ale widzê, ¿e trzyma za rêkê
+{13944}{14040}jakiegoœ w³ochatego kikuta|w k¹pielówkach i koszulce z Margaritaville.
+{14045}{14119}Potem orientujê siê,|¿e ten koleœ to nie koleœ.
+{14124}{14172}Moja dziewczyna trzyma za rêkê...
+{14172}{14223}/- ISS, tu Houston.|/- Mów, Houston.
+{14223}{14283}/- Explorer, tu Houston.|- Œmia³o, Houston.
+{14287}{14347}/Przerwaæ misjê.|/Powtarzam, przerwaæ misjê.
+{14354}{14402}/Rozpocznijcie awaryjne od³¹czanie|/od Hubble'a.
+{14407}{14505}/Rozpocznijcie procedurê powrotu.|/ISS, rozpocznijcie ewakuacjê.
+{14505}{14582}Przyjêliœmy, Houston, dzia³amy.|Matt, wracamy do Explorera.
+{14589}{14649}- Powtarzam, natychmiast wracamy do Explorera.|- Przyj¹³em.
+{14657}{14709}- Explorer, przygotujcie œluzê.|/- Przygotowana,
+{14709}{14762}/- gotowa do odbioru.|- Houston, powiedz coœ wiêcej.
+{14764}{14836}/Odpady po wybuchu wywo³a³y|/reakcjê ³añcuchow¹,
+{14836}{14896}/uderzaj¹c w inne satelity|/i tworz¹c nowe odpady.
+{14903}{14973}/Zmierzaj¹ w waszym kierunku|/szybciej ni¿ pociski.
+{14985}{15028}/- Przyjêliœcie?|- Tak jest.
+{15031}{15102}- Szybciej, dr Stone.|- Nie mogê.
+{15107}{15186}- P³yta wci¹¿ siê wgrywa.|- Nie powiem tego dwa razy.
+{15191}{15263}- Sekunda.|- Nie, teraz!
+{15266}{15378}- Zamknij to. To rozkaz!|- Dobrze, przepraszam.
+{15383}{15417}Skoñczy³am.
+{15417}{15481}/Kowalski, rozpocznij awaryjne|/od³¹czenie od Hubble'a.
+{15481}{15536}- Dobra, Shariff, do roboty.|- Przyj¹³em, Matt.
+{15541}{15613}- Houston, informuj nas.|/- To reakcja ³añcuchowa.
+{15625}{15740}/Potwierdzono, ¿e to efekt uboczny|/zestrzelenia przez Rosjan ich satelity.
+{15752}{15824}- Zestrzelili w³asnego satelitê?|- Prawo w³asnoœci.
+{15827}{15891}Zapewne satelita szpiegowski da³ plamê.|Teraz to szrapnel.
+{15896}{15946}Explorer, gotowy do od³¹czenia Hubble'a.
+{15946}{16085}/- Zwolnienie zabezpieczeñ za 3, 2, 1...|/- Explorer, nowe informacje.
+{16097}{16157}- Jaka jest sytuacja, Houston?|/- Nie jest dobrze.
+{16157}{16213}/Pad³a wiêkszoœæ systemów.
+{16217}{16301}/Nie mamy kontroli|/nad reakcj¹ ³añcuchowa odpadów.
+{16301}{16368}/Zniszczonych zosta³o kilka satelitów|/i nastêpne czekaj¹ w kolejce.
+{16373}{16448}- Zdefiniuj "kilka".|/- Wiêkszoœæ z nich.
+{16452}{16560}/Systemy telekomunikacyjne pad³y.|/Oczekujcie na zerwanie po³¹czenia.
+{16560}{16671}- Kowalski, odpady na dziewi¹tej.|- Po³owie Ameryki pad³ Facebook.
+{16675}{16778}/Explorer, powtarzam,|/oczekujcie zerwania po³¹czenia w ka¿dej chwili.
+{16783}{16858}- Przyjê³am, Houston.|- Explorer, mówi Kowalski,
+{16858}{16958}- potwierdzam widok odpadów z satelity BSE.|- Uwa¿ajcie!
+{16963}{17045}- Potwierdzam, widzê...|- Dr Stone prosi o szybszy transport.
+{17049}{17090}Musimy iœæ!
+{17092}{17164}/Kennedy informuje, ¿e warunki meteorologiczne|/uniemo¿liwiaj¹ powrót.
+{17176}{17301}/- Houston, tu Explorer. Przyjê³am.|- Explorer, dr Stone prosi o szybszy powrót do zatoki.
+{17303}{17368}- Explorer, s³yszycie mnie?|- Proszê o pozwolenie na ratunek dr Stone.
+{17375}{17411}/Dzia³aj, Kowalski.
+{17419}{17479}/Houston, tu Explorer,|/s³yszycie mnie?
+{17488}{17567}- Dobra.|/- Straciliœmy Houston.
+{17586}{17651}Odepnij siê.|Wynoœmy siê st¹d w cholerê.
+{17654}{17706}- Pomóc ci, Matt?|- Nie czekaj na nas.
+{17706}{17783}- Zaci¹³ siê!|- Mamy rannego!
+{17814}{17912}/Houston, tu Explorer.|/Kowalski, infor...
+{17948}{18080}Explorer trafiony!|Explorer, s³yszysz? Explorer, obiór!
+{18135}{18219}Astronauta poza struktur¹!|Dr Stone jest poza struktur¹!
+{18224}{18286}Dr Stone, odepnij siê!|Musisz siê odpi¹æ!
+{18310}{18370}Jeœli tego nie zrobisz,|odlecisz za daleko!
+{18375}{18423}Pos³uchaj mnie!|Skup siê!
+{18435}{18462}Tracê ciê z widoku.
+{18466}{18509}Za kilka sekund ju¿ ciê nie odnajdê.
+{18514}{18562}Musisz siê odczepiæ!|Nie widzê ciê!
+{18581}{18658}- Zrób to!|- Próbujê!
+{18665}{18812}Houston, nie widzê dr Stone.|Nie widzê dr Stone.
+{19027}{19104}/Dr Stone, s³yszysz mnie?|/Powtarzam, s³yszysz mnie?
+{19123}{19183}- Tak, odczepi³am siê!|/- Podaj swoj¹ pozycjê.
+{19183}{19270}Nie wiem! Obracam siê!|Nie mogê...
+{19274}{19370}/- Podaj swoj¹ pozycjê.|- GPS pad³, nie mogê...
+{19382}{19445}/- Powiedz, co widzisz.|- Nic. Nie widzê nic!
+{19449}{19552}/- Widzisz Explorera albo ISS?|- Nie!
+{19552}{19644}/Skup siê. Wykorzystaj S³oñce|/lub Ziemiê, podaj mi koordynaty.
+{19644}{19797}- Nie mogê oddychaæ!|/- Koordynaty! Dr Stone, s³yszysz mnie?
+{19835}{19974}/S³yszysz mnie?|/Podaj swoj¹ pozycjê.
+{20006}{20106}/Widzisz Explorera?|/Widzisz ISS?
+{20106}{20142}/Skup siê.|/Daj mi cokolwiek.
+{20142}{20197}/Wykorzystaj S³oñce lub Ziemiê,|/podaj mi koordynaty.
+{21070}{21120}Kowalski?|Kowalski, s³yszysz mnie?
+{21180}{21269}Kowalski, widzê...|Kowalski, widzê coœ.
+{21269}{21408}Widzê Explorera.|Z pó³nocy na dwunastej,
+{21435}{21523}a wahad³owiec jest na œrodku.
+{21559}{21703}Widzê chiñsk¹ stacjê.|Nie, to Miêdzynarodowa Stacja Kosmiczna.
+{21729}{21857}ISS jest na... siódmej.
+{22053}{22103}Poruczniku Kowalski, s³yszysz mnie?
+{22235}{22288}Explorer, s³yszysz mnie?
+{22501}{22549}Houston, s³yszysz mnie?
+{22665}{22741}Houston, tu specjalista ds. misji|Ryan Stone.
+{22741}{22796}Jestem poza struktur¹|i dryfujê.
+{22796}{22828}S³yszy mnie ktoœ?
+{22983}{23015}Ktokolwiek?
+{23115}{23146}Jest tam ktoœ?
+{23218}{23254}S³yszy mnie ktoœ?
+{23350}{23449}Proszê, us³yszcie mnie.|Proszê.
+{23947}{24014}/- Dr Stone, s³yszysz mnie?|- Tak, poruczniku Kowalski.
+{24019}{24074}- Tak, poruczniku Kowalski, jestem tu.|/- PotwierdŸ, s³yszysz mnie?
+{24079}{24182}- Tak, s³yszê, jestem tutaj.|/- Poœwieæ latark¹.
+{24182}{24242}- Latark¹?|/- Bym móg³ ciê zobaczyæ.
+{24338}{24400}Dobra.|Jestem tutaj!
+{24400}{24496}/Tam jesteœ. Trzymaj siê.|/Podaj swój status.
+{24508}{24611}- Nic mi nie jest.|/- Podaj swoje odczyty.
+{24616}{24762}- PSI na poziomie 3,6.|/- Podaj stan tlenu.
+{24779}{24889}Poziom tlenu spada.|I to szybko. Dziewiêæ...
+{24901}{24925}Nie, 8,8%.
+{24925}{24966}/- Za szybko oddychasz.|- 8,3%.
+{24966}{25029}/Spalasz za du¿o tlenu.|/Nie mo¿emy sobie na to pozwoliæ.
+{25033}{25112}/- Uspokójmy siê, dobrze?|- Przepraszam. Tak, przyjê³am.
+{25112}{25177}/- Prawie jestem.|- Pospiesz siê.
+{25204}{25311}- Zgaœ latarkê, dr Stone.|- Przepraszam.
+{25419}{25515}Mam ciê.|Teraz przypnê ciê do siebie.
+{25570}{25638}Wiem. Nie zdawa³aœ sobie sprawy,|jak zniewalaj¹co piêkny jestem.
+{25650}{25733}Przestañ siê jednak gapiæ|i pomó¿ mi z podpiêciem.
+{25853}{25966}- Mam.|- Œwietnie.
+{25968}{26028}Trochê ciê popchnê,|by os³oniæ ciê przed odrzutem.
+{26033}{26100}- Nie, nie, nie.|- Nie popchnê, tylko tr¹cê.
+{26100}{26167}Nie, nie, nie.|Nie, do cholery!
+{26354}{26410}Widzisz?|Gdzie ty, tam i ja.
+{26553}{26577}Lepiej.
+{26609}{26637}Zmiatajmy st¹d.
+{26704}{26745}- Cholera.|- Wiem, co masz na myœli.
+{26781}{26836}- Cholera.|- Spalasz tlen.
+{26860}{26949}Wracamy do wahad³owca.|Odpowiada ci taki plan?
+{26949}{27011}- Kurwa!|- Przyj¹³em.
+{27040}{27083}Houston, jeœli mnie s³yszycie,|mówi Kowalski.
+{27083}{27131}Dr Stone i ja|wracamy do bazy.
+{27131}{27210}Ka¿cie Explorerowi przygotowaæ|dla nas luki? S³yszycie?
+{27246}{27306}Houston, tu Kowalski.|S³yszycie mnie?
+{27330}{27383}Houston, jeœli mnie s³yszycie,|mówi Kowalski.
+{27397}{27438}- Nie s³ysz¹ nas.|- Nie wiadomo.
+{27441}{27476}Dlatego wci¹¿ mówimy.
+{27476}{27541}Jeœli ktoœ to s³yszy,|mo¿e w³aœnie ratowaæ ci ¿ycie.
+{27565}{27652}- Ustaw alarm na 90 minut.|- Czemu 90?
+{27656}{27740}Wed³ug Houston odpady poruszaj¹ siê|z prêdkoœci¹ 32000 km/h.
+{27747}{27812}Jeœli weŸmiemy pod uwagê nasz¹ obecn¹ orbitê,|to mamy jakieœ 90 minut,
+{27815}{27867}zanim znów skopi¹ nam dupska.
+{27874}{27963}- Poziom tlenu spad³ do 6%.|- Dobrze.
+{27970}{28042}Mo¿na siê posraæ, lataj¹c tu|tak bez kontroli, nie?
+{28073}{28179}- Fakt, mo¿na.|- Spisa³aœ siê.
+{28249}{28301}Ty te¿ da³eœ radê.
+{28392}{28448}Houston, jeœli mnie s³yszycie,|mówi Kowalski.
+{28452}{28577}Nasza obecna pozycja to w przybli¿eniu|900 metrów od Explorera.
+{28596}{28699}Dr Stone i ja chcielibyœmy odzyskaæ cia³o|specjalisty ds. misji Shariffa
+{28711}{28790}i wróciæ do wahad³owca.|Mam pozwolenie?
+{28867}{28934}- Przyj¹³em.|- Gdzie on jest?
+{29761}{29793}£ap go!
+{29869}{29946}- £ap!|- Próbujê!
+{30052}{30104}- Ci¹gniesz mnie za sob¹.|- Mam go!
+{30111}{30159}- Z³ap go jak swoj¹ walentynkê.|- Mam go.
+{30164}{30243}Nie mogê uruchomiæ odrzutu,|kiedy oboje tak latacie.
+{31015}{31087}Mam nadziejê,|¿e macie jakieœ ubezpieczenie, Houston.
+{31094}{31250}Zniszczenia s¹ ogromne.|Szukamy ocala³ych.
+{31255}{31298}Tlen spad³ do dwóch procent.
+{31322}{31370}Dobra, uwaga na krawêdzie!
+{31593}{31624}Tutaj!
+{32871}{32921}Houston, jeœli mnie s³yszycie.|Dla potwierdzenia.
+{32933}{33017}Specjalista ds. misji dr Stone|i dowódca Matthew Kowalski
+{33025}{33096}s¹ jedynymi ocala³ymi|z STS-1-5-7.
+{33168}{33200}Przepraszam za swoj¹ upartoœæ.
+{33204}{33257}Powinnam przestaæ pracowaæ,|kiedy tylko mi kaza³eœ.
+{33260}{33355}I tak dosz³oby do zderzenia.|Nie mog³aœ temu zapobiec.
+{33499}{33511}Tak?
+{33530}{33626}Musimy dostaæ siê do stacji.
+{33658}{33693}Tam.
+{33729}{33797}To d³uga wycieczka.|Musimy wykorzystaæ ich kapsu³ê ratunkow¹,
+{33797}{33857}Sojuza, ¿eby wróciæ na Ziemiê.
+{33868}{33904}Zgadzasz siê?
+{33928}{34012}Dr Stone, zgadzasz siê?
+{34044}{34127}- Zgadzam.|- Idê przodem.
+{34195}{34219}Bo¿e.
+{34451}{34501}Houston, jeœli mnie s³yszycie.|Mówi Kowalski.
+{34518}{34597}Razem z dr Stone|zmierzamy w kierunku ISS
+{34605}{34674}i skorzystamy z ich kapsu³y Sojuz|do powrotu.
+{34698}{34753}ISS, jeœli nas s³yszycie...
+{34770}{34820}prosimy o misjê ratunkow¹.
+{35156}{35247}- Tlen spada do 2%.|- Ju¿ prawie tam jesteœmy.
+{35285}{35326}Piêkny, prawda?
+{35362}{35393}Co?
+{35401}{35437}Wschód s³oñca.
+{35477}{35520}Tego bêdzie mi brakowa³o najbardziej.
+{35648}{35707}Gdzie dom, doktor Stone?
+{35772}{35823}Ryan, gdzie twój dom?
+{35868}{35899}Dom?
+{35923}{35995}Pod nami.|Matka Ziemia.
+{36014}{36058}Gdzie rozbi³aœ swój namiot?
+{36129}{36209}- Lake Zurich.|- Gdzie to jest, u diab³a?
+{36297}{36352}- Illinois.|- Illinois.
+{36352}{36396}Centralna Strefa Czasowa.
+{36424}{36467}W przybli¿eniu bêdzie...
+{36484}{36520}20:00.
+{36527}{36604}Co robi¹ o tej porze|porz¹dni mieszkañcy Lake Zurich?
+{36640}{36676}Nie wiem.
+{36690}{36791}- Nie dam rady, tylko ciê spowalniam.|- Co byœ robi³a?
+{36858}{36935}Ryan, jest 20.
+{36954}{37033}Wysz³aœ ze szpitala|po osiemnastogodzinnym dy¿urze.
+{37053}{37088}Jedziesz do domu.
+{37172}{37204}Radio.
+{37252}{37335}- S³ucham radia.|- No i proszê.
+{37340}{37364}Niech zgadnê.
+{37371}{37467}NPR? Classical?|Top forty?
+{37558}{37642}Wszystko mi jedno,|byle nie gadali. Jadê.
+{37709}{37745}Dok¹d?
+{37810}{37908}- Po prostu jadê.|- Czego bêdzie ci brakowa³o?
+{37956}{38000}Czeka tam jakiœ pan Stone?
+{38028}{38107}- Nie.|- Nikt wyj¹tkowy?
+{38184}{38270}Nikt tam nie patrzy w górê|i nie myœli o tobie?
+{38330}{38366}Ryan?
+{38541}{38575}Mia³am córkê.
+{38832}{38867}Mia³a cztery lata.
+{38932}{39035}Bawi³a siê w berka.|Poœlizgnê³a siê, uderzy³a w g³owê i umar³a.
+{39102}{39155}Najg³upszy sposób.
+{39294}{39366}Jecha³am, kiedy do mnie zadzwonili...
+{39390}{39453}Od tamtej chwili tak ¿yjê.
+{39476}{39616}Wstajê, do pracy|i po prostu jadê.
+{40272}{40330}Tlen spada do jednego procenta.
+{40623}{40670}Mam dobre i z³e wiadomoœci.
+{40670}{40730}Dobra jest taka,|¿e jesteœmy piêæ minut drogi od ISS
+{40735}{40783}i wiem, gdzie Rosjanie trzymaj¹ wódkê.
+{40795}{40855}I dobrze, bo jadê na oparach.
+{40881}{41009}Z³a natomiast jest taka,|¿e zabraknie mi 10 minut do rekordu Anatolija i...
+{41033}{41080}- Co?|- Niskie ciœnienie zbiornika z tlenem.
+{41145}{41220}- Masz trochê tlenu w kombinezonie.|- Kumam.
+{41224}{41267}Musisz braæ ³yczki, nie hausty.
+{41291}{41373}Wino, nie piwo.|S¹cz, Ryan.
+{41392}{41459}Houston, widzimy ISS.
+{41466}{41555}Stacjê ewakuowano,|bo brakuje pierwszego Sojuza.
+{41562}{41658}Na drugim widaæ uszkodzenia,|spadochron otwarty.
+{41670}{41759}Wykorzystanie jej w celu powrotu|jest niemo¿liwe.
+{41778}{41821}Nie powinniœmy zawróciæ?|Dryfujemy.
+{41829}{41888}Jeszcze nie.|Nie ¿artowa³em z tymi oparami.
+{41893}{41953}Zosta³o nam jeszcze na jeden|albo dwa odrzuty.
+{41958}{41992}Jeœli mamy szczêœcie.
+{42296}{42322}Szykuj siê.
+{42557}{42586}Cel.
+{42601}{42629}Pal!
+{42788}{42871}- Hamuj!|- Nie mogê, zbiornik pusty.
+{42871}{42931}Walniemy mocno,|³ap to, co siê da!
+{43222}{43293}Co robiæ?!
+{43540}{43576}Ryan!
+{43667}{43751}Lina pêk³a, oderwa³am siê!
+{43756}{43792}£ap siê czegoœ!
+{43847}{43883}Czegokolwiek!
+{44274}{44305}Ryan!
+{44336}{44392}- Daj rêkê!|- Idê.
+{44396}{44475}Ju¿, ju¿.
+{44533}{44619}- Kurwa!|- Nie...
+{44651}{44686}Mam ciê.
+{44909}{44933}Mam.
+{45005}{45082}Trzymaj siê,|a ja zacznê ciê wci¹gaæ.
+{45084}{45161}- Pani doktor.|- Trzymaj mocno, wci¹gnê ciê.
+{45168}{45212}- Ryan, pos³uchaj.|- Wci¹gnê ciê.
+{45212}{45236}- Musisz mnie puœciæ.|- Nie.
+{45240}{45300}Liny s¹ zbyt luŸne.|Ci¹gnê ciê za sob¹.
+{45307}{45355}Puœæ mnie albo zginiemy oboje.
+{45360}{45435}Nigdzie ciê nie puszczê.
+{45571}{45631}- Ryan, puœæ.|- Nie.
+{45657}{45710}Nigdzie ciê nie puszczê.
+{45715}{45797}- Nie masz na to wp³ywu.|- Nie rób tego.
+{45801}{45916}Nie rób tego, proszê.
+{45928}{45988}Matt, proszê.
+{46060}{46096}Dasz radê, Ryan.
+{46132}{46156}Nie!
+{46676}{46758}Prawie ciê z³apa³am.
+{47134}{47170}Ryan, s³yszysz mnie?
+{47238}{47367}- S³yszysz?|- Znikn¹³ alarm tlenu.
+{47369}{47413}Musisz dostaæ siê na stacjê.
+{47437}{47477}Widzisz œluzê?
+{47695}{47772}Ryan, s³yszysz?
+{47827}{47868}Szukaj jej.
+{47930}{47990}Nad tob¹, obok modu³u Zarya.
+{48081}{48141}- Widzisz?|- Tak.
+{48146}{48266}- Widzê.|- Tam masz iœæ.
+{48285}{48333}Masz zawroty g³owy, prawda?
+{48340}{48489}Oddychasz dwutlenkiem wêgla.|Tracisz œwiadomoœæ.
+{48496}{48556}Musisz dostaæ siê do stacji.
+{48587}{48714}Drugi Sojuz jest uszkodzony,|ale nadaje siê na niedzieln¹ przeja¿d¿kê.
+{48726}{48767}Niedzieln¹ przeja¿d¿kê?
+{48774}{48889}Spójrz na zachód.|Widzisz kropkê?
+{48894}{48954}- To chiñska stacja.|- Tak.
+{48959}{49017}Przejmiesz Sojuza i dojedziesz tam.
+{49045}{49124}Chiñska szalupa to Shenzhou.
+{49146}{49208}- Nie prowadzi³am Shenzhou.|- To bez znaczenia.
+{49216}{49275}Maj¹ identyczny protokó³|jak Sojuz.
+{49391}{49491}- Prowadzi³aœ Sojuza?|- Na symulatorze.
+{49510}{49642}- To masz pojêcie.|- Rozbi³am go.
+{49647}{49697}To symulator, po to go stworzono.
+{49774}{49841}Ale rozwala³am go za ka¿dym razem.
+{49858}{49901}Skieruj to cholerstwo na Ziemiê.
+{49901}{49949}To nie fizyka j¹drowa.
+{49961}{50052}Jak dobrze pójdzie, jutro o tej porze|bêdziesz w Lake Zurich z niesamowit¹ histori¹.
+{50076}{50112}S³yszysz?
+{50153}{50239}- Ryan, s³yszysz?|- Przejmê Sojuza i jadê po ciebie.
+{50247}{50287}- Nie.|- Idê po ciebie.
+{50292}{50347}- Nie, bêdê za daleko.|- Idê po ciebie.
+{50352}{50402}Ten statek ju¿ odp³yn¹³.
+{50434}{50493}Ryan, musisz nauczyæ siê odpuszczaæ.
+{50522}{50582}Chcê us³yszeæ, ¿e dasz radê.
+{50633}{50680}Powiedz to.
+{50721}{50820}- Dam radê.|- No to do dzie³a.
+{50841}{50908}Nazwaæ dziewczynê Ryan?
+{50944}{51035}- Ojciec chcia³ syna.|- Zbli¿asz siê do œluzy?
+{51066}{51136}- Jeszcze nie.|- To idŸ.
+{51155}{51210}Skoro dzieli nas taka odleg³oœæ,
+{51215}{51289}- podobam ci siê, nie?|- Co?
+{51313}{51385}Ludzie mówi¹,|¿e mam piêkne, niebieskie oczy.
+{51433}{51560}Masz piêkne...|niebieskie oczy.
+{51565}{51608}Mam br¹zowe oczy.
+{51692}{51752}- Powiem ci coœ zabawnego.|- Co?
+{51759}{51862}Pobijê rekord Anatolija|na d³ugi czas.
+{51862}{51934}Nie, idê po ciebie.
+{52006}{52061}- Bo¿e.|- Co?
+{52217}{52284}Powinnaœ zobaczyæ s³oñce nad Gangesem.
+{52337}{52385}Niesamowite.
+{58748}{58792}Gdzie jesteœ?
+{58796}{58875}Tutaj jesteœ.
+{59134}{59178}Matt, mówi Ryan.
+{59249}{59309}Matt, mówi Ryan.
+{59386}{59470}Matt, jestem w stacji.|S³yszysz mnie?
+{59624}{59664}Matt, mów do mnie.
+{59676}{59736}Podaj mi swoj¹ pozycjê.
+{59760}{59846}Gdzie jesteœ?|Co widzisz?
+{59959}{60055}Gêba ci siê nie zamyka od przyl¹dka Canaveral,|a teraz milczysz?
+{60057}{60153}Mów cokolwiek!
+{60304}{60448}Opowiedz o Mardi Gras.|Opowiedz o tym ow³osionym typie.
+{60455}{60496}Co siê wtedy sta³o?
+{60501}{60556}Co spotka³o tego ow³osionego?
+{60707}{60755}Mów do mnie.
+{60846}{60889}Proszê.
+{61256}{61292}Houston, jeœli mnie s³yszycie...
+{61355}{61455}Specjalista Ryan Stone|nadaje z ISS.
+{61503}{61614}Stracono komunikacjê|z dowódc¹ Matthew Kowalskim.
+{61685}{61738}Nie odpowiada.
+{61781}{61837}Nie widaæ go.
+{61901}{62081}Ja, Ryan Stone, jestem jedyn¹ ocala³¹|z STS-1-5-7.
+{62422}{62469}Co teraz?
+{64850}{64953}Gdzie zasilanie?
+{65037}{65133}Jak na treningu.|Odpiêcie.
+{65150}{65236}Odpiêcie.|Czerwona.
+{65440}{65526}Gdzie to jest?
+{65687}{65742}Pamiêtam to.
+{66104}{66171}Nie mam czterech minut.
+{66191}{66215}Przechodzimy na rêczne.
+{66238}{66267}Dalej.
+{66274}{66430}Aktywacja, odpiêcie.
+{67032}{67082}Siedem minut na wydostanie siê st¹d.
+{67243}{67291}Dobra.
+{67672}{67708}Co?
+{67931}{67986}Nie!
+{69130}{69173}Dobrze.
+{69185}{69247}Dobrze.
+{69319}{69343}No dalej.
+{70207}{70230}Super.
+{71333}{71410}Czyste niebo|z ryzykiem odpadów satelitów.
+{73177}{73249}Oderwiemy siê i do domu.|Bu³ka z mas³em.
+{74016}{74057}Co tu mamy?
+{74071}{74112}Dobra.
+{74366}{74402}Kurna.
+{74573}{74621}Dalej.
+{74668}{74692}Dobra.
+{76879}{76915}Nienawidzê kosmosu.
+{77395}{77435}Zamknij siê.
+{77893}{77924}Dobrze.
+{78032}{78075}Stabilizujemy.
+{78502}{78565}JedŸmy na chiñsk¹ stacjê.
+{78589}{78624}Houston, jeœli mnie s³yszycie,
+{78629}{78764}Tiangong znajduje siê|100 mil na zachód.
+{78773}{78939}Odchy³ trzynaœcie stopni od kursu.|Poprawiê trajektoriê.
+{79631}{79727}Uruchomiê S-Ka-Dae|za piêæ... cztery...
+{79737}{79795}trzy... dwie... jedn¹.
+{80149}{80202}Co siê dzieje?
+{80276}{80305}Jeden.
+{80648}{80686}No weŸ.
+{80782}{80837}To jakiœ ¿art.
+{80847}{80885}To jakiœ ¿art!
+{81001}{81046}Nie, ty chuju...
+{81283}{81396}Houston, tu doktor Ryan Stone.
+{81408}{81504}Mówiê z Sojuza TMA-1-4-M.
+{81516}{81610}Nie mam paliwa i dryfujê.
+{81657}{81746}Houston. Mówi dr Ryan Stone.
+{81761}{81785}S³yszycie mnie?
+{81897}{82008}Houston. Mówi Ryan Stone.|S³yszycie mnie?
+{82089}{82204}Houston, mówi specjalista...|ds. misji Ryan Stone, s³yszycie?
+{82242}{82314}Houston, Houston,|potwierdŸcie.
+{82319}{82406}Houston, przechodzicie na|czêstotliwoœæ A.M.
+{82441}{82465}S³yszycie?
+{82489}{82569}To chiñska stacja?|To Tiangong? PotwierdŸcie.
+{82605}{82712}Mayday, mo¿ecie potwierdziæ?|Mayday, mayday, mayday.
+{82744}{82856}Tak, tak. Mayday, mayday.|Mayday, mayday.
+{83000}{83067}To twoje...|Imiê?
+{83072}{83146}Aningaaq to twoje... imiê?
+{83187}{83206}Mayday!
+{83211}{83278}Nie jestem mayday.|Jestem Stone.
+{83283}{83377}Dr Ryan Stone.|Potrzebujê pomocy...
+{83470}{83494}To psy.
+{83657}{83700}To z Ziemi.
+{84002}{84122}Aningaaq, poproœ psa, ¿eby szczekn¹³.
+{84170}{84280}Twoje psy.
+{85355}{85403}Umrê, Aningaaq.
+{85460}{85546}Wiem, wszyscy umrzemy.|Ka¿dy to wie.
+{85551}{85602}Ale ja umrê dzisiaj.
+{85666}{85741}To zabawne wiedzieæ...
+{85817}{85884}Ale nadal siê bojê.
+{85901}{85944}Naprawdê mocno.
+{86012}{86107}Nikt za mn¹ nie zap³acze.|Nikt sie nie pomodli.
+{86172}{86215}Zap³aczesz za mn¹?
+{86251}{86306}Zmówisz za mnie modlitwê?
+{86318}{86362}A mo¿e ju¿ za póŸno?
+{86467}{86541}Prawdê mówi¹c nigdy w ¿yciu|siê nie modli³am.
+{86597}{86642}Nikt mnie nie nauczy³.
+{86736}{86796}Nikt mnie nie nauczy³.
+{87066}{87100}Dziecko.
+{87402}{87452}Jest tam dziecko?
+{87522}{87572}Œpiewasz ko³ysankê?
+{87644}{87687}S³odkie.
+{87740}{87791}Tez œpiewa³am dziecku.
+{87884}{87934}Mam nadziejê, ¿e wkrótce j¹ zobaczê.
+{89622}{89694}To piêkne, Aningaaq.|Œpiewaj tak dalej.
+{89745}{89805}Uko³ysz mnie do snu.
+{89845}{89944}Œpiewaj, œpiewaj.
+{90648}{90694}Nie!
+{91727}{91775}SprawdŸ zegarek.|Trzynaœcie godzin i 11 minut.
+{91783}{91854}Powiedz Anatolijowi, ¿e go pokona³em.
+{91871}{91919}- Ponuro tu, co?|- Jakim cudem...?
+{91924}{91986}- Uwierz, niez³a historia.|- Ale jak...?
+{92051}{92089}Lepiej.
+{92101}{92185}Odnalaz³em trochê dodatkowej mocy.
+{92193}{92252}Nie rozprasza³aœ mnie,|wiêc by³o ³atwiej.
+{92252}{92348}Cieszê siê, ¿e ciê widzê.|Myœla³em, ¿e nie dasz rady.
+{92360}{92427}- Znalaz³aœ wódkê?|- Ale ty...
+{92444}{92511}Nie powiedzia³eœ mi, gdzie jest...
+{92650}{92734}Za Anatolija.|Na zdrowie.
+{92854}{92965}Dobra, spadajmy st¹d.
+{93017}{93125}Chiñska stacja jest sto mil st¹d.|Spacerek.
+{93132}{93168}- Nie damy rady.|- Damy..
+{93180}{93209}Nie ma paliwa, próbowa³am.
+{93216}{93288}- Zawsze da siê coœ zrobiæ.|- Próbowa³am wszystkiego.
+{93288}{93339}A silników hamuj¹cych?
+{93343}{93396}- S³u¿¹ do l¹dowania...|- L¹dowanie to startowanie.
+{93399}{93451}Jedno i to samo.|Nie uczyli ciê na treningu?
+{93456}{93504}Nigdy nie wyl¹dowa³am, mówi³am.
+{93506}{93566}- Ale wiesz o tym.|- Ale zawsze siê rozbija³am.
+{93574}{93626}Chcesz wróciæ czy zostaæ tutaj?
+{93705}{93749}Rozumiem, mi³o tu nawet.
+{93825}{93993}Mo¿esz wy³¹czyæ systemy,|œwiat³a...
+{94012}{94072}zamkn¹æ oczy i odci¹æ siê.
+{94096}{94139}Nikt nie zrobi ci tutaj krzywdy.
+{94151}{94187}Jest bezpiecznie.
+{94271}{94338}Ale gdzie sens ¿ycia?
+{94446}{94542}Twoje dziecko umar³o.|Gorzej ju¿ nie bêdzie.
+{94602}{94664}Nadal chodzi o to, co zrobisz.
+{94693}{94772}Jeœli zdecydujesz siê dzia³aæ,|to trzeba zacz¹æ.
+{94796}{94851}Usi¹œæ, cieszyæ siê podró¿¹.
+{94868}{94955}Postaw nogi na ziemi|i zacznij wreszcie ¿yæ.
+{94959}{95050}- Jak siê tu dosta³eœ?|- Mówi³em ci, niesamowita historia.
+{95062}{95122}- Ryan.|- Co?
+{95127}{95182}Czas wracaæ do domu.
+{96225}{96256}L¹dowanie...
+{96309}{96412}L¹dowanie to startowanie.
+{96424}{96455}Powiedzia³am...
+{96791}{96858}L¹dowanie to zielona.
+{97192}{97280}L¹dowanie, dobra.
+{97297}{97414}Silniki ³agodnego l¹dowania|w³¹czaj¹ siê trzy metry przed l¹dowaniem.
+{97484}{97534}Spryciarz z ciebie, Matt.
+{97546}{97685}Muszê pozbyæ siê B.O.|i modu³u silnika.
+{97944}{97980}Separacja trzech modu³ów.
+{98011}{98035}Teraz.
+{98438}{98486}Houston, najsprytniejsza czêœæ.
+{98498}{98637}Sojuz musi myœleæ,|¿e jesteœmy trzy metry nad Ziemi¹.
+{98736}{98860}Matt, czas siê odwdziêczyæ|za wys³uchiwanie twojej gadaniny.
+{98872}{98915}Musisz mi pomóc.
+{98947}{99076}Zobaczysz umorusan¹ dziewczynkê|z br¹zowymi w³osami.
+{99090}{99170}Nie lubi siê czesaæ.
+{99194}{99227}Ma na imiê Sarah.
+{99253}{99373}Mo¿esz jej przekazaæ,|¿e mama znalaz³a jej czerwony but?
+{99402}{99452}Martwi³a siê tym, Matt.
+{99469}{99512}A le¿a³ pod ³ó¿kiem.
+{99603}{99723}Uœciskaj j¹ i daj ca³usa ode mnie.|Powiedz, ¿e mama têskni.
+{99743}{99891}Powiedz jej, ¿e jest moim anio³kiem.|Napawa mnie dum¹.
+{100011}{100085}Powiedz jej jeszcze, ¿e nie wymiêkam.
+{100236}{100282}I ¿e j¹ kocham, Matt.
+{100308}{100364}Powiedz jej, ¿e kocham j¹|ponad ¿ycie.
+{100433}{100476}Zrobisz to dla mnie?
+{100531}{100572}Potwierdzasz?
+{100627}{100663}Jedziemy.
+{101534}{101594}Tracisz wysokoœæ, Tiangong.
+{101658}{101745}Bêdziesz upadaæ i zetkniesz siê|z atmosfer¹.
+{101761}{101833}Ale nie beze mnie, bo jesteœ moim|ostatnim œrodkiem lokomocji.
+{101924}{101960}Czekaj.
+{102131}{102155}5...
+{102183}{102212}4...
+{102238}{102267}3...
+{102296}{102334}Dosyæ jazdy.
+{102378}{102418}Wracamy do domu.
+{102533}{102605}Gotowa.|Dobra.
+{102634}{102658}Gotowa.
+{102828}{102951}Gdzie jesteœ?|45, 90, 180.
+{103780}{103804}Dobrze.
+{103828}{103864}Cholera.
+{103895}{103998}W dó³.|ChodŸ do mamy.
+{105940}{105995}Cholera!
+{106228}{106310}No dalej, Shenzhou.
+{106338}{106439}Kurwa! Têdy. Shenzhou.
+{106614}{106688}Gdzie jesteœ?|Co to?
+{107827}{107911}W Sojuzie tu siê w³¹cza moc.
+{107995}{108069}Od³¹czanie.
+{108093}{108137}Ene, due...
+{108141}{108249}Nie brzmi to najlepiej.|Like, fake.
+{108297}{108336}No hablo chino.
+{108364}{108419}Toba, borba.
+{108460}{108523}Dobra.
+{108722}{108767}Houston. Houston,|jeœli mnie s³yszycie.
+{108774}{108865}Specjalista ds. misji Ryan Stone|zg³asza siê z Shenzhou.
+{108875}{108921}Oddokowa³am siê z Tiangong...
+{109033}{109100}Mam z³e przeczucia|co do tej misji.
+{109156}{109203}Przypomnij mi opowieœæ, Houston...
+{109263}{109359}Zreszt¹ niewa¿ne.
+{109419}{109498}Robi siê gor¹co.
+{109566}{109661}S¹ tylko dwa wyjœcia.
+{109666}{109777}Albo spadnê w jednym kawa³ku|z niesamowit¹ histori¹,
+{109793}{109848}albo spalê siê za 10 minut.
+{109884}{109992}Co ma byæ, bêdzie!
+{110172}{110208}Bo tak czy inaczej...
+{110263}{110318}to bêdzie niez³a jazda.
+{110378}{110419}Jestem gotowa.
+{113442}{113567}/Shenzhou, tu Houston.|/Przechodzê na czêstotliwoœæ FM.
+{113603}{113663}/Radary wykry³y ciê|/na trajektorii powrotu.
+{113665}{113725}/Jeœli s³yszysz, potwierdŸ.
+{114226}{114346}/Mówi Houston.
+{114461}{114509}/Proszê podaæ to¿samoœæ.
+{114533}{114612}/Wys³aliœmy misjê ratunkow¹.
+{114617}{114670}/Jest ju¿ w drodze.
+{119038}{119072}Dziêkujê.
+{120623}{120690}.:: GrupaHatak.pl ::.
+{120690}{120786}T³umaczyli: rarehare i józek
+{120834}{120906}.::  ::.|
