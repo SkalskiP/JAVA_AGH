@@ -7,6 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="io.indico-3.4.0" level="project" />
+    <orderEntry type="library" name="io.indico:io.indico:3.16.0" level="project" />
   </component>
 </module>
