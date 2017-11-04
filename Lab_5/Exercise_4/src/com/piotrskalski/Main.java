@@ -13,7 +13,7 @@ public class Main {
             PicturesClassificator classificator = new PicturesClassificator("162e5af316869ead56c13fafb5462658");
 
             try {
-                classificator.classify(args[0], args[1]);
+                classificator.sort_photos(args[0], args[1]);
             } catch (FileIsNotPictureException e ) {
                 e.printStackTrace();
             } catch (GivenFolderDoesNotExistException e) {
