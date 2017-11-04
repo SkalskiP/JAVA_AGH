@@ -7,6 +7,7 @@ import io.indico.api.utils.IndicoException;
 import org.apache.commons.io.FilenameUtils;
 import java.io.File;
 import java.io.IOException;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -27,7 +28,7 @@ public class PicturesClassificator {
 
     // =================================================================================================================
 
-    // The main method that handles photos sorting
+    // Method that handles photos sorting
     public void classify(String inputPath, String outputPath) throws FileIsNotPictureException,
                                                                 GivenFolderDoesNotExistException,
                                                                 IOException,
@@ -40,13 +41,43 @@ public class PicturesClassificator {
         // Array that holds paths to all photos that we want to classify
         String[] pathList = getPathsList(inputFolder);
 
+        // API request
         BatchIndicoResult multiple = this.apiInstance.imageRecognition.predict(pathList);
+
+        // Data structure that holds image features
         List<Map<String, Double>> imageRecognition = multiple.getImageRecognition();
+
+        // Iterator that will help us to match the path to the file and the matching prediction
+        int i = 0;
+
+        // Iteration after projections for subsequent pictures
+        for(Map<String, Double> predictions : imageRecognition) {
+
+            // An iterator that will help us navigate the map
+            Iterator<Map.Entry<String, Double>> it = predictions.entrySet().iterator();
+
+            // Name of feature with maximum probability
+            Map.Entry<String, Double> bestGuess = (Map.Entry)it.next();
+
+            // Looping over features
+            while (it.hasNext()) {
+                Map.Entry<String, Double> pair = (Map.Entry)it.next();
+
+                if(bestGuess.getValue() < pair.getValue()) {
+                    bestGuess = pair;
+                }
+            }
+
+            System.out.println(pathList[i] + ' ' + bestGuess.getKey());
+            // Iterator increase
+            i++;
+        }
 
     }
 
     // =================================================================================================================
 
+    // Method that returns list of paths to validated photo files
     private String[] getPathsList(File inputFolder) throws GivenFolderDoesNotExistException,
                                                             FileIsNotPictureException
     {
@@ -79,6 +110,7 @@ public class PicturesClassificator {
 
     // =================================================================================================================
 
+    // Method that file extension is allowed
     private boolean isAllowed(String extension) {
         for(String str : allowedExtensions) {
             if(str.trim().contains(extension))
