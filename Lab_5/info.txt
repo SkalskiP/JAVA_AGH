@@ -1,0 +1,4 @@
+segmentacja
+opencv
+fpga
+gum grupa uj

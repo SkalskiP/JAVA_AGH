@@ -27,6 +27,9 @@ public class PicturesClassificator {
     // The api instance that will be used for classification
     private Indico apiInstance;
 
+    public String[] pathList;
+    public String[] nameList;
+
     // =================================================================================================================
 
     // Constructor
@@ -38,58 +41,26 @@ public class PicturesClassificator {
     // =================================================================================================================
 
     // Method that handles photos sorting
-    public void sort_photos(String inputPath, String outputPath) throws FileIsNotPictureException,
+    public List<Map<String, Double>> classify(String inputPath) throws FileIsNotPictureException,
             GivenFolderDoesNotExistException,
             IOException,
             IndicoException {
 
-        // Input and output handles
+        // Input handles
         File inputFolder = new File(inputPath);
-        File outputFolder = new File(outputPath);
-
-        // Emptying input folder
-        FileUtils.deleteDirectory(outputFolder);
-        outputFolder.mkdir();
 
         // Array that holds paths to all photos that we want to classify
         String[] pathList = getPathsList(inputFolder);
 
-        // Hash Map that holds paris: file_path label
-        Map<String, String> labels = classify(pathList);
+        List<Map<String, Double>> labels = make_request(pathList);
 
-        // Reorganization of images based on labels
-        labelFiles(outputPath, labels);
-
-    }
-
-    // =================================================================================================================
-
-    // Method that handles reorganization of images based on labels
-    private void labelFiles(String outputPath, Map<String, String> labels) throws IOException {
-
-        // An iterator that will help us navigate the map
-        Iterator<Map.Entry<String, String>> it = labels.entrySet().iterator();
-
-        // Looping over photos
-        while (it.hasNext()) {
-            Map.Entry<String, Double> pair = (Map.Entry) it.next();
-
-            // file object representing folder for a specific label
-            File newDirectory = new File(outputPath + pair.getValue());
-
-            // Create a folder if it does not exist
-            if (!newDirectory.exists()) newDirectory.mkdir();
-
-            // Photo copying to appropriate folder
-            File image = new File(pair.getKey());
-            Files.copy(image.toPath(), new File(newDirectory.getAbsolutePath() + "\\" + image.getName()).toPath(), REPLACE_EXISTING);
-        }
+        return labels;
     }
 
     // =================================================================================================================
 
     // Method that returns HashMap with classifications
-    private Map<String, String> classify(String[] pathList) throws IndicoException, IOException {
+    private List<Map<String, Double>> make_request(String[] pathList) throws IndicoException, IOException {
 
         // API request
         BatchIndicoResult multiple = this.apiInstance.imageRecognition.predict(pathList);
@@ -97,37 +68,7 @@ public class PicturesClassificator {
         // Data structure that holds image features
         List<Map<String, Double>> imageRecognition = multiple.getImageRecognition();
 
-        // Iterator that will help us to match the path to the file and the matching prediction
-        int i = 0;
-
-        // A map that will store the path to the file and the corresponding label
-        Map<String, String> results = new HashMap<>();
-
-        // Iteration after projections for subsequent pictures
-        for (Map<String, Double> predictions : imageRecognition) {
-
-            // An iterator that will help us navigate the map
-            Iterator<Map.Entry<String, Double>> it = predictions.entrySet().iterator();
-
-            // Name of feature with maximum probability
-            Map.Entry<String, Double> bestGuess = (Map.Entry) it.next();
-
-            // Looping over features
-            while (it.hasNext()) {
-                Map.Entry<String, Double> pair = (Map.Entry) it.next();
-
-                // Searching pair with the highest value
-                if (bestGuess.getValue() < pair.getValue()) {
-                    bestGuess = pair;
-                }
-            }
-
-            //Linking a path to a file with a label
-            results.put(pathList[i], bestGuess.getKey());
-            // Iterator increase
-            i++;
-        }
-        return results;
+        return imageRecognition;
     }
 
     // =================================================================================================================
@@ -146,6 +87,9 @@ public class PicturesClassificator {
         // Array that will hold paths to all photos that we want to classify
         String[] pathList = new String[inputFolderContent.length];
 
+        // Array that will hold names of all photos that we want to classify
+        String[] namesList = new String[inputFolderContent.length];
+
         // Looping over input folder content
         for (int i = 0; i < inputFolderContent.length; i++) {
 
@@ -158,8 +102,11 @@ public class PicturesClassificator {
             if (!isAllowed(ext)) throw new FileIsNotPictureException("Given file is not a picture");
 
             pathList[i] = inputFolderContent[i].getAbsolutePath();
+            namesList[i] = inputFolderContent[i].getName();
         }
 
+        this.pathList = pathList;
+        this.nameList = namesList;
         return pathList;
     }
 
