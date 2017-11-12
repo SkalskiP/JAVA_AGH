@@ -22,7 +22,7 @@ public class Main extends Application {
         selectedId = 0;
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("Photos classification");
-        primaryStage.setScene(new Scene(root, 900, 500));
+        primaryStage.setScene(new Scene(root, 1000, 600));
         primaryStage.show();
     }
 

@@ -51,8 +51,8 @@ public class Controller implements Initializable {
         Scene wiewer_page_scene = new Scene(viewer_page_parent);
         Stage app_stage = (Stage) ((Node) actionEvent.getSource()).getScene().getWindow();
         app_stage.setScene(wiewer_page_scene);
-        app_stage.setWidth(900);
-        app_stage.setHeight(500);
+        app_stage.setWidth(1000);
+        app_stage.setHeight(600);
         app_stage.show();
     }
 

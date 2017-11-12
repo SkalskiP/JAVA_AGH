@@ -14,10 +14,7 @@ import java.nio.file.Files;
 
 import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 // The class that handles photo classification
 public class PicturesClassificator {
@@ -68,7 +65,45 @@ public class PicturesClassificator {
         // Data structure that holds image features
         List<Map<String, Double>> imageRecognition = multiple.getImageRecognition();
 
-        return imageRecognition;
+        // Data structure that will hold selected values from map of all predictions
+        List<Map<String, Double>> bestFits = new ArrayList<Map<String, Double>>();
+
+//        // =============================================================================================================
+//        // Selecting best fitting predictions for each photo
+//        // =============================================================================================================
+//
+//        // Iteration over list containing predictions for all photos
+//        for(Map<String, Double> singlePhoto : imageRecognition) {
+//            // Initiation of new HashMap that will hold predictions with probability over selected value
+//            Map<String, Double> selectedResults = new HashMap<>();
+//
+//            // Iteration over hashMap with all predictions
+//            for(Map.Entry<String, Double> entry: singlePhoto.entrySet()){
+//                // Validation of
+//                if(entry.getValue() > 0.05){
+//                    selectedResults.put(entry.getKey(), entry.getValue());
+//                }
+//            }
+//            bestFits.add(selectedResults);
+//        }
+
+
+        // =============================================================================================================
+        // Selecting best fitting predictions for each photo
+        // =============================================================================================================
+
+        // Iteration over list containing predictions for all photos
+        for(Map<String, Double> singlePhoto : imageRecognition) {
+            // Initiation of new HashMap that will hold predictions with probability over selected value
+            Map<String, Double> result = new LinkedHashMap<>();
+            singlePhoto.entrySet().stream()
+                    .sorted(Map.Entry.<String, Double>comparingByValue().reversed())
+                    .forEachOrdered(x -> result.put(x.getKey(), x.getValue()));
+
+            bestFits.add(result);
+        }
+
+        return bestFits;
     }
 
     // =================================================================================================================

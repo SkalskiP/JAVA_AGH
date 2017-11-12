@@ -2,15 +2,15 @@
 <?import javafx.scene.layout.GridPane?>
 
 <?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.TextField?>
-<?import javafx.scene.text.Text?>
-
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.control.ComboBox?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+
 <BorderPane fx:controller="sample.ViewerPageController" xmlns:fx="http://javafx.com/fxml">
 
     <top>
@@ -19,19 +19,33 @@
                 <Insets top="10" left="10"/>
             </padding>
             <ComboBox fx:id="photos_list"></ComboBox>
-            <Button GridPane.columnIndex="1" GridPane.rowIndex="1" text="TEST" onAction="#test"/>
+            <Button GridPane.columnIndex="1" GridPane.rowIndex="1" text="SELECT" onAction="#test"/>
         </HBox>
     </top>
 
     <left>
         <VBox alignment="CENTER">
             <padding>
-                <Insets top="10" left="100"/>
+                <Insets top="10" left="50"/>
             </padding>
             <ImageView fx:id="item_photo"></ImageView>
         </VBox>
     </left>
-
+    <right>
+        <HBox alignment="CENTER" prefHeight="415.0" prefWidth="602.0">
+            <padding>
+                <Insets bottom="30" left="30" right="30" top="30" />
+            </padding>
+            <BarChart fx:id="barChart" prefHeight="363.0" prefWidth="485.0">
+                <xAxis>
+                    <CategoryAxis side="LEFT" fx:id="xAxis" />
+                </xAxis>
+                <yAxis>
+                    <NumberAxis fx:id="yAxis" prefHeight="314.0" prefWidth="22.0" side="BOTTOM" />
+                </yAxis>
+            </BarChart>
+        </HBox>
+    </right>
 </BorderPane>
 
 
